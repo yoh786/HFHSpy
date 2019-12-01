@@ -1,0 +1,1112 @@
+MedHub (fka MyEval and New Innovations)
+KB23686 v10.0 Revised by Fuller, Dee 35 Views Last updated 4d ago Rating ☆☆☆☆☆
+Impacted Service: MedHub Description MedHub is a cloud-based application (desktop and mobile) that provides functionality for program administration, scheduling and evaluations for the HFHS Graduate Medical Education program. MedHub has replaced "MyEval"...
+Knowledge Base: HFHS Service Desk
+Halo Secured Texting for Clinicians
+KB23569 v29.0 Revised by Amabile, Maria 173 Views Last updated 4d ago Rating ☆☆☆☆☆
+Description Halo is the new texting communication tool for clinical care teams, to share and discuss sensitive patient care information pushed in real-time from Epic and secured on Henry Ford issued smartphones and desktop computers. The Halo Clinical...
+Knowledge Base: HFHS Service Desk
+HenryFordGalleries.com Support
+KB20402 v2.0 Revised by Fuller, Dee 1 View Last updated 5d ago Rating ☆☆☆☆☆
+Description HenryFordGalleries.com is a website that hosts event photographs and where guests can view images and purchase prints. Some of the events included on the site are press conferences, take your child to work day, the kidney walk, service awards...
+Knowledge Base: HFHS Service Desk
+Pediatric Mobile Video Visit Clinic
+KB22880 v7.0 Revised by Amabile, Maria 5 Views Last updated 5d ago Rating ☆☆☆☆☆
+Impacted Service: MyChart Video Visits Description Pediatric Mobile Video Visit Clinic is a Virtual Care program. This is a special "video visit only" clinic offered on Monday mornings from 8:00am to noon. These visits use the video platform through Epic...
+Knowledge Base: HFHS Service Desk
+TytoCare
+KB22382 v8.0 Revised by Amabile, Maria 2 Views Last updated 5d ago Rating ☆☆☆☆☆
+Impacted Service: MyChart Video Visits Description Telemedicine ( Virtual Care) consultations and encounters can be facilitated using a real-time voice and video conferencing device and application called TytoCare. TytoCare is currently in production at:...
+Knowledge Base: HFHS Service Desk
+Epic MyChart Video Visits - Telemedicine
+KB19155 v24.0 Revised by Amabile, Maria 29 Views Last updated 5d ago Rating ☆☆☆☆☆
+Impacted service: MyChart Video Visits Alias: Telehealth, Telemedicine, Vidyo, teleconferencing Description It will now be possible for a limited number of physicians across the health system to consult with patients via a video chat feature through...
+Knowledge Base: HFHS Service Desk
+E-Visits - Non Urgent Electronic Visit
+KB21104 v8.0 Revised by Amabile, Maria 5 Views Last updated 5d ago Rating ☆☆☆☆☆
+Description An E-Visit is a patient initiated (not scheduled), non urgent electronic visit conducted through the MyChart patient portal, for a fee. Visit is completed electronically via messaging between a patient and a doctor. Patient fills out a...
+Knowledge Base: HFHS Service Desk
+E-Consults
+KB22552 v3.0 Revised by Amabile, Maria 4 Views Last updated 5d ago Rating ☆☆☆☆☆
+Description With E-Consults, a requesting physician communicates with a specialist for advice regarding a patient's chart through Epic In Basket messages. This feature gives requesting physicians easier access to specialists' expertise, helping them...
+Knowledge Base: HFHS Service Desk
+Virtual Care / Telemedicine
+KB22564 v7.0 Revised by Amabile, Maria 23 Views Last updated 5d ago Rating ☆☆☆☆☆
+Description Virtual Care enables HFHS to Increase/improve access and reach, offer alternate access to healthcare, meet patient expectations for online service, reduce costs (time, travel, convenience, etc.), and increase clinician productivity/efficiency....
+Knowledge Base: HFHS Service Desk
+ServiceNow Support Procedures
+KB13976 v24.0 Revised by Fuller, Dee 42 Views Last updated 7d ago Rating ☆☆☆☆☆
+Assignment Group: ServiceNow Support Impacted Service: This ServiceNow instance Description The following document should assist with supporting the ServiceNow IT Service Management (ITSM) system. The majority of issues reported or requests received...
+Knowledge Base: HFHS Service Desk
+OnBase Document Scanning and Archiving
+KB24176 v5.0 Revised by Amabile, Maria 67 Views Last updated 9d ago Rating ☆☆☆☆☆
+Description OnBase is the new document Repository System that is hosted in the Cloud. It will be replacing Fastrieve, CPNG, and Solcom in the coming months, more information to come. OnBase will be used: In the Medical Record Department for Scanning By...
+Knowledge Base: HFHS Service Desk
+Maintenance Work Orders - Allegiance Health
+KB22413 v1.0 Authored by Fuller, Dee 2 Views Last updated 9d ago Rating ☆☆☆☆☆
+Description This article explains how an Allegiance Health end user can submit a maintenance work order. The IT Service Desk Agent can use the steps below to guide the agent in submitting a maintenance work order. Issues that require a maintenance work...
+Knowledge Base: HFHS Service Desk
+Avaya Phone Support
+KB21842 v15.0 Revised by Fuller, Dee 23 Views Last updated 10d ago Rating ☆☆☆☆☆
+Impacted Service: Voice Avaya Phones - HFAH| HFHS: Avaya Aura Description Avaya phones are desktop phones primarily used by Allegiance Health. PLEASE BE AWARE, there are a small number of Avaya phones in the HFHS environment. - For users at HFHS...
+Knowledge Base: HFHS Service Desk
+Philips VS4 IBE- (Philips Vital Signs Monitor)
+KB24198 v3.0 Revised by Amabile, Maria 22 Views Last updated 10d ago Rating ☆☆☆☆☆
+Description Monitoring vital signs is integral to patient care. With device integration of the VS4, vital signs monitor, the clinician will scan the patient wrist band with the barcode scanner attached to the monitor, pull in the patient demographics, take...
+Knowledge Base: HFHS Service Desk
+Mainspring / MobileTech Support
+KB18671 v36.0 Revised by Fuller, Dee 44 Views Last updated 11d ago Rating ☆☆☆☆☆
+Impacted Service: Mainspring CMMS Description Mainspring is a CMMS ticket and asset tracking system used by the following departments: Clinical Engineering Plant Operations (Facilities) EVS (Environmental Services) Autoclave – Main Campus only CDC – Main...
+Knowledge Base: HFHS Service Desk
+HenryFordBrand.com (Brand in ACTION) Support
+KB18732 v12.0 Revised by Fuller, Dee 14 Views Last updated 11d ago Rating ☆☆☆☆☆
+ATTENTION: Users will not be able to access the Brand in ACTION site when using generic log in computers. Corp authentication is required. Description "Brand in ACTION" is the brand management portal. This site is used whenever you are planning to use the...
+Knowledge Base: HFHS Service Desk
+Workforce Connect / Employee Manager Self-Service / HR Connect Support
+KB13878 v18.0 Revised by Fuller, Dee 124 Views Last updated 11d ago Rating ☆☆☆☆☆
+Impacted Service: Peoplesoft Workforce Connect Alias: Employee and Manager Self Service, Workforce Connect, WFC, HR Connect ServiceNow template(s): 1) UserAsst - Corp/HR Instruction, PWReset - HR Connect (Reset or Unlock) Description Employee and Manager...
+Knowledge Base: HFHS Service Desk
+Symantec EndPoint Data Loss Prevention DLP (Personal USB/ Flash Drive)
+KB23497 v21.0 Revised by Amabile, Maria 58 Views Last updated 12d ago Rating ☆☆☆☆☆
+Description Data Loss Prevention (DLP) complements the overall HFHS Information Privacy and Security strategy by building a policy model to monitor and block data. It monitors, detects, and blocks sensitive data while in-motion (network traffic) and...
+Knowledge Base: HFHS Service Desk
+Allegiance Integration Applications (Epic and Third Party)
+KB19935 v12.0 Revised by Fuller, Dee 25 Views Last updated 15d ago Rating ☆☆☆☆☆
+The link below contains a comprehensive list of applications and services related to the Allegiance Health. Please use the following spreadsheet determine which applications have been decommissioned, replaced, and to see who supports the applications...
+Knowledge Base: HFHS Service Desk
+ScrubEx (Scrubs Dispensing Machine)
+KB24208 v1.0 Authored by Fuller, Dee 1 View Last updated 15d ago Rating ☆☆☆☆☆
+Description ScrubEx is a dispensing machine that provides hospital staff with scrubs at HFH, Macomb and Wyandotte. End user may call in and state: Unable to access machine Machine not dispensing scrubs Assignment Group: All issues with ScrubEx should be...
+Knowledge Base: HFHS Service Desk
+External Henry Ford Allegiance Applications
+KB22034 v10.0 Revised by Fuller, Dee 85 Views Last updated 15d ago Rating ☆☆☆☆☆
+Description The following sites are frequently used resources at Allegiance Health. JCMR NextGen https://nextgen.allegiancehealth.org/Citrix/NextGenWeb Michigan Heart EMR https://remote.ihacares.com Prescription Refills...
+Knowledge Base: HFHS Service Desk
+MyWorkspace Support
+KB22827 v35.0 Revised by Fuller, Dee 89 Views Last updated 15d ago Rating ☆☆☆☆☆
+Impacted Service: Virtual Desktop Infrastructure ServiceNow Template: UserAsst - MyWorkspace Support Description This article explains MyWorkspace components, software configuration, and troubleshooting issues related to the service. Required First Steps...
+Knowledge Base: HFHS Service Desk
+iNeedit (Allegiance Health) - Submitting Clinical Engineering/BioMed/Imaging Work Orders
+KB21957 v14.0 Revised by Fuller, Dee 9 Views Last updated 15d ago Rating ☆☆☆☆☆
+Impacted Service: iNeedIt ATTENTION: All Henry Ford Allegiance Health non-urgent work orders for Clinical Engineering and Imaging services should be placed via iNeedit. This article only covers Clinical Engineering and Imaging Services for Allegiance. For...
+Knowledge Base: HFHS Service Desk
+NextGen Support
+KB21984 v5.0 Revised by Fuller, Dee 3 Views Last updated 15d ago Rating ☆☆☆☆☆
+The Service Desk DOES NOT support NextGen access or password resets. Application Support If the Service Desk is contacted for NextGen access issues, direct the user to call 517-205-7434 or transfer the user to x657434 (JCMR Help Desk). Access Direct URL:...
+Knowledge Base: HFHS Service Desk
+No KB Found Process
+KB24103 v4.0 Revised by Fuller, Dee 61 Views Last updated 16d ago Rating ☆☆☆☆☆
+Description This article should be flagged with the required information below if you are unable to find a KB for any incident you are unable to resolve. Please keep in mind, flags SHOULD NOT be used to ask questions related to a call or email, in these...
+Knowledge Base: HFHS Service Desk
+Sage 300 (Timberline) - HFAH
+KB24183 v1.0 Authored by Fuller, Dee 2 Views Last updated 25d ago Rating ☆☆☆☆☆
+Description HFAH's Plant Engineering-Construction and the Real Estate Department uses several modules from Sage 300 (Timberline) Construction and Real Estate (C&RE) application. Timberline is the former name used for Sage. Application Name/Business...
+Knowledge Base: HFHS Service Desk
+PrinterLogic (Printer mapping tool)
+KB19120 v6.0 Revised by Fuller, Dee 38 Views Last updated about a month ago Rating ☆☆☆☆☆
+Impacted Service: Enterprise Print Services Allegiance Health should now be using PrinterLogic. If a printer is not found in the PrinterLogic tool please follow normal procedures and send a ticket to Enterprise Print to have it added to PrinterLogic....
+Knowledge Base: HFHS Service Desk
+Windows 10 Tip Sheets
+KB19339 v7.0 Revised by Fuller, Dee 24 Views Last updated about a month ago Rating ☆☆☆☆☆
+Description This is a collection of brief 'How-to' type documents to assist with navigating Windows 10 and performing common actions. Users should not be using fingerprint scanners, face ID, or PINs. This is possible with the Windows 10 images, but is not...
+Knowledge Base: HFHS Service Desk
+Accessing OneHENRY while Off-Network (Simplified Remote Access - SRA) and Authentication Prompts
+KB22842 v10.0 Revised by Fuller, Dee 5 Views Last updated about a month ago Rating ☆☆☆☆☆
+Description Simplified Remote Access (SRA) provides users the ability to access OneHENRY from any desktop/mobile device, outside of the HFHS network, without the need of DUO verification or Pulse Secure, using their username and password. HAP users can...
+Knowledge Base: HFHS Service Desk
+Telepsych
+KB24096 v1.0 Authored by Fuller, Dee 7 Views Last updated about a month ago Rating ☆☆☆☆☆
+Description Bluestream is the video platform used to conduct telepsychiatry video visits utilizing WOW carts. qler is the name of the telepsychiatry vendor. Bluestream Video Platform Information The platform is accessible on any computer with a camera and...
+Knowledge Base: HFHS Service Desk
+Epic Upgrade 2019
+KB23999 v16.0 Revised by Amabile, Maria 56 Views Last updated about a month ago Rating ☆☆☆☆☆
+Description This article provides an overview of the general 2019 Epic Upgrade changes. Known issues after go-live Issue Work Around/ Resolution/ Tip sheet AVS/discharge calls - E-Signature workflow no longer appear in Preview AVS section of discharge...
+Knowledge Base: HFHS Service Desk
+Skype for Business Conferencing Support (HFHS and Allegiance)
+KB18334 v5.0 Revised by Fuller, Dee 39 Views Last updated about a month ago Rating ☆☆☆☆☆
+NOTE: If the user is calling about a physical conference room, reference KB13601 - Video Conferencing, AVI, and Other Meeting Room Support. Impacted Service: Skype for Business Description Skype for Business Voice Conferencing allows users to schedule...
+Knowledge Base: HFHS Service Desk
+Duo Two-Step Verification Support
+KB20695 v74.0 Revised by Fuller, Dee 173 Views Last updated about a month ago Rating ☆☆☆☆☆
+NOTE: Use the UserAsst - DUO Support template Description Two Factor Authentication is an additional security step to validate the identity of the person attempting to log into the account. DUO Mobile is the name of the solution being implemented across...
+Knowledge Base: HFHS Service Desk
+Webex Meetings (aka Cisco Webex Event)
+KB23866 v3.0 Revised by Amabile, Maria 6 Views Last updated about a month ago Rating ☆☆☆☆☆
+Webex Meetings (aka Cisco Webex Event) Assignment Group If the ticket cannot be resolved by utilizing this KB, create a ticket and do the following: Save the ticket in the Service Desk Queue Reach out to Jason Kohl and Maria Amabile for assistance in...
+Knowledge Base: HFHS Service Desk
+Novatrack
+KB21706 v14.0 Revised by Fuller, Dee 5 Views Last updated 2mo ago Rating ☆☆☆☆☆
+Impacted Service: Novatrack Description Novatrack is a Context Aware Distributed System, meaning it uses location (context) and iPhone (distributed computers) to provide its services to users. The following end user groups will be sharing iPhones and...
+Knowledge Base: HFHS Service Desk
+Procedure Pass for surgical patients
+KB24002 v2.0 Revised by Amabile, Maria Last updated 2mo ago Rating ☆☆☆☆☆
+Description Procedure Pass is a way for pre-surgical preparation to be consolidated into a single, central checklist. Procedure Pass is a new tool for tracking the tasks that need to be completed for a patient to be ready for surgery. It should be noted...
+Knowledge Base: HFHS Service Desk
+Open Notes - Ambulatory, Emergency Department, and Inpatient
+KB22582 v9.0 Revised by Amabile, Maria 8 Views Last updated 2mo ago Rating ☆☆☆☆☆
+Description Open Notes is: A feature in Epic that allows the physician's note from a medical visit to be read by the patient via MyChart. The purpose of Open Notes to create a more transparent care experience for patients and providers. It urges doctors,...
+Knowledge Base: HFHS Service Desk
+Corp HR Password Transition FAQ - For agent use only
+KB18995 v3.0 Revised by Fuller, Dee 21 Views Last updated 2mo ago Rating ☆☆☆☆☆
+Q: If the Employee ID account is locked in HR will the Corp ID and Password still work to log the user in? A: No, if the employee’s account is locked in HR, then the Corp ID and password will NOT work. The HR account must be unlocked to be able to login...
+Knowledge Base: HFHS Service Desk
+Morphine Equivalent Daily Dose (MEDD) for Inpatient Medications
+KB24003 v2.0 Revised by Amabile, Maria 1 View Last updated 2mo ago Rating ☆☆☆☆☆
+Description To assess a patient's daily opiod intake and assess the risk of dependency or abuse, clinicians often calculate a morphine equivalent daily dose (MEDD), where the dose of each ordered opiod is converted to an equivalent does of morphine. Now,...
+Knowledge Base: HFHS Service Desk
+Epic - Break the Glass
+KB19061 v1.0 Authored by Lewis, Keith 7 Views Last updated 2mo ago Rating ☆☆☆☆☆
+Description: Break the glass is an Epic feature that protects patient health information. Break the glass warns a user when they are about to access a patient record that is marked for active monitoring. Support: Break the glass does not restrict a user...
+Knowledge Base: HFHS Service Desk
+MyChart Attachments
+KB24036 v2.0 Revised by Amabile, Maria 6 Views Last updated 2mo ago Rating ☆☆☆☆☆
+Description Patients and staff can now add attachments to MyChart messages. Assignment Group Any issues related to MyChart attachments that cannot be resolved by using the KB, create a ticket and assign to Epic MyChart/Epic Care Link team Quick Links How...
+Knowledge Base: HFHS Service Desk
+Reviewing a Patient's Lifetime of Care
+KB24004 v2.0 Revised by Amabile, Maria Last updated 2mo ago Rating ☆☆☆☆☆
+Description Lifetime of Care is an activity that allows end users to quickly review a patient's basic medical history, including problems, surgical and medical history, and medications. It allows clinicians to quickly get up to speed on medical care of a...
+Knowledge Base: HFHS Service Desk
+Imprivata Initial Badge Enrollment and Application Learning
+KB22816 v6.0 Revised by Fuller, Dee 42 Views Last updated 2mo ago Rating ☆☆☆☆☆
+Impacted Service: Imprivata Description Imprivata is a Single Sign On (SSO) technology that greatly reduces password overhead by learning and remembering not only device, but also application credentials. Imprivata badge readers and appliances are the...
+Knowledge Base: HFHS Service Desk
+Badge System Support - Allegiance
+KB21724 v17.0 Revised by Fuller, Dee 14 Views Last updated 2mo ago Rating ☆☆☆☆☆
+Impacted Service: Schlage SMS Badging System - HFAH Description This article explains how to fix/resolve and escalate issues related to employee badges at Allegiance Health. Support Issue Next Steps... Assignment Group Missing badge Needs a temporary or...
+Knowledge Base: HFHS Service Desk
+OneDrive for Business
+KB22311 v5.0 Revised by Fuller, Dee 46 Views Last updated 2mo ago Rating ☆☆☆☆☆
+Description OneDrive for Business is a cloud (server) storage solution by Microsoft. Users can save documentation in a cloud account and have access to those documents wherever an Internet connection is available. OneDrive for Business also works with...
+Knowledge Base: HFHS Service Desk
+Epic Training Dashboard
+KB23975 v1.0 Authored by Fuller, Dee Last updated 2mo ago Rating ☆☆☆☆☆
+Description All Epic users now have a new way to access all Epic learning and training resources directly from Epic. While all of these materials can still be accessed on OneHENRY, Epic users can now access these materials and new ones when they are logged...
+Knowledge Base: HFHS Service Desk
+Home Health and Hospice(HHH) Remote Client Epic 2019 - Deployment Plan
+KB23273 v12.0 Revised by Amabile, Maria 9 Views Last updated 2mo ago Rating ☆☆☆☆☆
+Description Starting on Monday, September 30th, the laptop computer clinicians use will need to follow the steps below to install Epic 2019 applications & the icon, and HOV software. Home Health and Hospice end users must remember: The laptop computer must...
+Knowledge Base: HFHS Service Desk
+Neuro.hfh.edu email addresses
+KB19219 v1.0 Authored by Shipman, Ryan J. Last updated 2mo ago Rating ☆☆☆☆☆
+Description: Used for email in the Neurology education department. Support: All issues relating to @neuro.hfh.edu email addresses can be directed to Song Chen via email at schen1@hfhs.org....
+Knowledge Base: HFHS Service Desk
+VDI Virtual Desktop (Henry Apps)
+KB19397 v7.0 Revised by Fuller, Dee 13 Views Last updated 2mo ago Rating ☆☆☆☆☆
+Description The Virtual Desktop (VDI) is a citrix-based application found in LightAccess that allows remote users to have access to a standard HFHS Windows image (both Windows 7 and Windows 10). NOTE: Internet favorites nor new desktop shortcuts are saved...
+Knowledge Base: HFHS Service Desk
+Accruent - Find Equipment Support
+KB22133 v8.0 Revised by Fuller, Dee 5 Views Last updated 2mo ago Rating ☆☆☆☆☆
+Impacted Service: Mainspring Description The Accruent- Find Equipment application is associated to Real Time Locating Services (RTLS). Accruent - Find Equipment can be utilized by users attempting to locate missing devices. Users can access the system and...
+Knowledge Base: HFHS Service Desk
+Request for Applications in Henry Apps (Lightaccess)
+KB17915 v7.0 Revised by Fuller, Dee 6 Views Last updated 3mo ago Rating ☆☆☆☆☆
+Impacted Service: HenryApps Description Users requesting the addition of ANY application to their lightaccess.hfhs.org (Henry Apps) profile will need ask their manager or supervisor fill out an Access Request Form (ARF) on their behalf. - IAMS will add...
+Knowledge Base: HFHS Service Desk
+Masimo Patient Safety Net
+KB22243 v7.0 Revised by Stoner, Clint Last updated 3mo ago Rating ☆☆☆☆☆
+Impacted Service: Patient Safety Net Aliases: Masimo, Patient Safety Net Description Masimo Patient SafetyNet is a supplemental remote monitoring and clinician notification system which displays near real-time information from any connected Masimo or...
+Knowledge Base: HFHS Service Desk
+Remote Client - Home Health and Hospice
+KB21286 v24.0 Revised by Fuller, Dee 13 Views Last updated 3mo ago Rating ☆☆☆☆☆
+If someone calls in with a corruption error with Epic HHH Remote client, follow the steps below: Obtain a screenshot of the error. DO NOT click the OK or Close button UNLESS the backup timestamp says “just now”. - See the example screenshot below For any...
+Knowledge Base: HFHS Service Desk
+Physician Relationship Management (PRM) System
+KB23694 v5.0 Revised by Amabile, Maria 2 Views Last updated 4mo ago Rating ☆☆☆☆☆
+Description The Physician Relationship Management (PRM) System will span community-based and statewide physician outreach and enable communication and collaboration across service lines to help facilitate physician alignment and Primary Care Physician...
+Knowledge Base: HFHS Service Desk
+zzzPAT (aka WatchPAT)
+KB23839 v1.0 Authored by Fuller, Dee Last updated 4mo ago Rating ☆☆☆☆☆
+ZzzPAT Software used to download and read sleep study data from WatchPAT, a medical device used for home sleep studies. The software is in use during the upload and later for providers to review. The VM houses a SQL database with demographics and a final...
+Knowledge Base: HFHS Service Desk
+iContracts - Universal Contract Manager
+KB23811 v1.0 Authored by Fuller, Dee Last updated 4mo ago Rating ☆☆☆☆☆
+IContracts iContracts Universal Contracts Manager (UCM) is: Cloud-based application that will serve as the enterprise-wide tool to manage HFHS/HAP contracts (e.g. renewals, etc.) Functions as the standard repository for all contracts and related documents...
+Knowledge Base: HFHS Service Desk
+Too Many Unsuccessful Attempts Error When Logging Into Epic
+KB18440 v1.0 Authored by Woodrich, Melanie 1 View Last updated 4mo ago Rating ☆☆☆☆☆
+After 3 failed attempts the client will receive the error below. Direct the client to exit Epic by clicking OK, then reopen Epic and try logging in again. If that does not work, direct the client to right-click the Citrix icon in the system tray, select...
+Knowledge Base: HFHS Service Desk
+Unable to Switch User - Someone Else is Logged Into a Shared Workstation
+KB18125 v1.0 Authored by Woodrich, Melanie 1 View Last updated 4mo ago Rating ☆☆☆☆☆
+If a caller is unable to select "switch user" or "other user" on a shared workstation and someone else is logged in, simply have them push and hold the computer's power button for at least 15 seconds until it shuts down, then press the button again briefly...
+Knowledge Base: HFHS Service Desk
+Identifying a PC Organizational Unit in ServiceNow
+KB18001 v2.0 Revised by Stoner, Clint 1 View Last updated 4mo ago Rating ☆☆☆☆☆
+Please note we have a new bit of data we can leverage in ServiceNow to identify the OU a PC is assigned to. This should be part of your troubleshooting documentation. You can search by the green tag in the Global Search field and open it by the...
+Knowledge Base: HFHS Service Desk
+Windows Server 2012 Log-In Prompt
+KB20021 v1.0 Authored by Stoner, Clint 2 Views Last updated 4mo ago Rating ☆☆☆☆☆
+Description Users may experience strange behavior after changing their Corp password or trying to log back into their workstation and be presented with a log-in screen for Windows Server 2012 or Imprivata. Users may see one of the following log-in screens...
+Knowledge Base: HFHS Service Desk
+Create Order Panels in Epic
+KB23347 v1.0 Authored by Fuller, Dee 3 Views Last updated 4mo ago Rating ☆☆☆☆☆
+Description This article explains how to create Order Panels. Order panels are groups of orders available in one single click. They allow you to quickly choose a group of orders that you want to place for a specific diagnosis or visit. This includes groups...
+Knowledge Base: HFHS Service Desk
+Allscripts EPSi Application
+KB23735 v1.0 Authored by Fuller, Dee 12 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Description Allscripts EPSi is a decision support application used by the HFHS Finance/Reimbursement team to analyze financial, clinical and operational data to enable informed analysis and support continuous performance improvement across the enterprise....
+Knowledge Base: HFHS Service Desk
+Allegiance Workstation Conversion and Refresh - Converting to HFHS Corp Windows 10 Workstations
+KB22738 v6.0 Revised by Fuller, Dee 4 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Description End users will be receiving an email as part of the Henry Ford Allegiance Health Workstation Conversion and Refresh. At the completion of this conversion and refresh the end users workstation will be converted to a HFHS Windows 10 workstation...
+Knowledge Base: HFHS Service Desk
+TraumaCoder Support
+KB21373 v6.0 Revised by Fuller, Dee 2 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Impacted Service: TraumaCoder Description TraumaCoder software is designed to assist trauma registrars in selecting the appropriate ICD 10 and AIS codes in a consistent way that reduces errors. TraumaCoder is currently in use in the Emergency Department...
+Knowledge Base: HFHS Service Desk
+Home Health and Hospice Tip Sheets
+KB21450 v5.0 Revised by Amabile, Maria 8 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Description The following are tip sheets for the Home Health and Hospice Field User. The tip sheets are in alphabetical order by topic. Quick Links Top Home Health and Hospice Field User Top of page ^ Home Health and Hospice Field User Tip Sheets Adding an...
+Knowledge Base: HFHS Service Desk
+Hester Davis Fall Prevention Upgrade (Epic)
+KB23362 v1.0 Authored by Fuller, Dee 1 View Last updated 5mo ago Rating ☆☆☆☆☆
+Description The Hester Davis (HD) Fall Prevention Care Plans have been updated to provide staff and patients with one comprehensive Care Plan for each practice area—Med Surg, OB and Behavioral Health. In addition to one comprehensive Care Plan users can...
+Knowledge Base: HFHS Service Desk
+1A Account and other Admin Account Password Reset
+KB18409 v3.0 Revised by Woodrich, Melanie Last updated 5mo ago Rating ☆☆☆☆☆
+If someone wants to reset their admin account password and they know their current one, have them log into Henry Apps with the admin ID and password and it should prompt them to change it. If they do not know the password or need their password reset and...
+Knowledge Base: HFHS Service Desk
+GE EchoPAC License HFHS
+KB23718 v1.0 Authored by Fuller, Dee Last updated 5mo ago Rating ☆☆☆☆☆
+GE EchoPAC License HFHS Assignment Group Any issues related to GE EchoPAC, create a ticket and assign to the DAP team....
+Knowledge Base: HFHS Service Desk
+REDCap Support
+KB21313 v4.0 Revised by Stoner, Clint 1 View Last updated 5mo ago Rating ☆☆☆☆☆
+Description REDCap data collection system is provided to HFHS researchers as a service by the Department of Public Health Sciences, in alignment with the PHS mission: To advance biomedical knowledge and improve health outcomes through multi-disciplinary...
+Knowledge Base: HFHS Service Desk
+EpicCare Link - Legal Access
+KB22526 v2.0 Revised by Fuller, Dee 4 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Description EpicCare Link Legal Access is for defense attorneys and plaintiffs (individuals that are suing Henry Ford Health System). Henry Ford provides them read only access, but DOES NOT support them. It is estimated within the next year there will be...
+Knowledge Base: HFHS Service Desk
+Epic MRN Merge Request
+KB19222 v3.0 Revised by Fuller, Dee 5 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Impacted Service: Identity Description Merge of medical records in Epic is required when there are two, or more, medical record numbers (MRN) established for a single patient. Support Use the Epic - MRN Merge Request template. 1. If the patient is...
+Knowledge Base: HFHS Service Desk
+SONIFI Health (Interactive Patient Care)
+KB20221 v8.0 Revised by Fuller, Dee 2 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Impacted Service: SONIFI Health Interactive Patient System Description SONIFI Health is a vendor who delivers patient engagement applications through the TVs in patient rooms that encourage patient participation in their care, promote healthy lifestyle...
+Knowledge Base: HFHS Service Desk
+Customizing Your Schedule in Epic 2018
+KB23345 v3.0 Revised by Amabile, Maria 3 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Description This article explains how to customize your schedule in Epic for easier use. Assignment Group Any issues related to Customizing your schedule in Epic 2018 that cannot be resolved by using the KB, create a ticket and assign to Epic Ambulatory....
+Knowledge Base: HFHS Service Desk
+The Brain (Epic)
+KB23360 v2.0 Revised by Amabile, Maria 2 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Description The Brain is a new home activity that helps the end user better plan and work through their shift by putting key patient information and tasks in one place. This article explains how to access the Brain. End Users that will be using the Brain:...
+Knowledge Base: HFHS Service Desk
+Wound Care (Epic)
+KB23371 v6.0 Revised by Amabile, Maria 3 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Description This article explain explains how to document a Wound within Epic and all changes taking place in Wound Care due to the Epic 2018 Upgrade. Assignment Group Inpatient End User Any issues related to Wound Care that cannot be resolved by using the...
+Knowledge Base: HFHS Service Desk
+E-Signature for Patient Belongings, Opiod Start Talking, and AVS (Inpatient)
+KB23359 v3.0 Revised by Amabile, Maria 2 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Description E-Signature allows staff and patients to sign documents in Epic electronically using a mouse. E-Signature is only used in the Inpatient setting. This article explains the following information regarding E-Signature: Provides instructions for...
+Knowledge Base: HFHS Service Desk
+Epic Bugsy
+KB23579 v3.0 Revised by Amabile, Maria 5 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Description Epic Bugzy is currently comprised of two areas Antibiotic Assistant and Infection Control Assistant, each apply specific medical knowledge and best practice guidelines for Infectious diseases and Antimicorbial stewardship. HFHS utilizes the...
+Knowledge Base: HFHS Service Desk
+Blood Product Administration Module (BPAM) - Epic
+KB23673 v2.0 Revised by Amabile, Maria Last updated 5mo ago Rating ☆☆☆☆☆
+Description Blood Product Administration Module (BPAM) is being implemented in Epic to assist clinicians in matching patients with ordered blood products using barcode scanning for the patient and blood product. This will help reduce/ eliminate blood...
+Knowledge Base: HFHS Service Desk
+Receiving Service Now Time Card Email "You have not submitted your Service Now Time Card"
+KB19311 v1.0 Authored by Woodrich, Melanie 1 View Last updated 5mo ago Rating ☆☆☆☆☆
+NOTE: HAP and Epic teams are tracking their time on projects within ServiceNow Symptom Someone states they received a notification from ServiceNow about their timecard not being submitted, and they are not sure why. Cause If a user, intentionally or...
+Knowledge Base: HFHS Service Desk
+Open and Direct Schedule Appointment with Physician
+KB23649 v1.0 Authored by Fuller, Dee Last updated 5mo ago Rating ☆☆☆☆☆
+Description Open and Direct Schedule Appointment with Physician has been identified as a no-lose digital strategy to improve the ease of scheduling an appointment with a preferred physician right away. Online Scheduling allows patients and non-patients to...
+Knowledge Base: HFHS Service Desk
+Epic Error When Trying to Discharge Patient: This patient has medications stored in pharmacy...
+KB18516 v2.0 Revised by Amabile, Maria 1 View Last updated 5mo ago Rating ☆☆☆☆☆
+Epic Error: This patient has medications stored in pharmacy or on unit. Please return these and document. When patient bring medications to the ER that need to be stored, there are specific areas this needs to be documented. Proper documentation will...
+Knowledge Base: HFHS Service Desk
+Private Practice Support
+KB19247 v1.0 Authored by Shipman, Ryan J. 3 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Using the User Snapshot to determine Epic type Training on the Difference Between Epic Flavors and How to Support Them Support for Community Connect Special Alliance Health Community Connect Model Support for EpicCare/Link Reminder: do not send tickets to...
+Knowledge Base: HFHS Service Desk
+Citrix Version 4.4 - HenryApps in Start Menu
+KB19113 v1.0 Authored by Shipman, Ryan J. 4 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Description: Citrix version 4.4 rolled out to the enterprise during the week of 8/29/16. Support: The new citrix acts almost identically to the older versions of Citrix, though it will look slightly different, and that information is captured below. If we...
+Knowledge Base: HFHS Service Desk
+Microsoft Outlook - "Please reduce your mailbox size" message
+KB23501 v4.0 Revised by Fuller, Dee 4 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Impacted Service: Outlook Symptoms Message received in Outlook: Your mailbox is becoming too large. The current size is XXXXX MB. Please reduce your mailbox size. Delete items that you don't need from your mailbox and empty your Deleted Items folder....
+Knowledge Base: HFHS Service Desk
+How to Locate and Review Access Request Forms (ARF)
+KB22310 v3.0 Revised by Fuller, Dee Last updated 5mo ago Rating ☆☆☆☆☆
+Description This article provides instructions to easily locate and review submitted Access Request Forms (ARF). Instructions Use the ServiceNow Global Search to look up any related Access Request Forms. Search by the user's last name, first name. Once...
+Knowledge Base: HFHS Service Desk
+Installing Printers at Allegiance Health
+KB22019 v2.0 Revised by Amabile, Maria 1 View Last updated 5mo ago Rating ☆☆☆☆☆
+Description This article explains how to install printers at Allegiance Health. How to Install Printers at Allegiance Health 1. Search for Allegiance Health printer by typing \\printmax in the search box 2. Click on the printmax icon that appears at the...
+Knowledge Base: HFHS Service Desk
+Applications supported by RIS (Radiology IT)
+KB20888 v2.0 Revised by Fuller, Dee 17 Views Last updated 5mo ago Rating ☆☆☆☆☆
+The following is a list of applications that are used in Radiology and supported by RIS ACR Triad ClickView Dynacad Illuminate Intellispace Portal LifeImage MedView/MedImage Optility PACSGear Poiesis Powerscribe Radimetrics RAPID Adobe Connect/RISVideo...
+Knowledge Base: HFHS Service Desk
+Patient Status Color Definitions in Epic
+KB23348 v2.0 Revised by Fuller, Dee 2 Views Last updated 5mo ago Rating ☆☆☆☆☆
+Description This article shows the new colors used for patient status within the Schedule. Overview The colors and Status column in the Schedule Activity area have been standardized as shown below. NOTE: The colored dot system is still in place and has not...
+Knowledge Base: HFHS Service Desk
+QPath Support
+KB18438 v6.0 Revised by Fuller, Dee Last updated 6mo ago Rating ☆☆☆☆☆
+Description QPath system stores ultrasound images prepared by residents from the ER and ICU locations. It is used for teaching purposes. This system is maintained by Dr. David Amponsah, Dr. Julian Suszanski, and Dr. Christopher Clark. Bill Dobson...
+Knowledge Base: HFHS Service Desk
+Epic - Cannot discharge patients with admit/observation orders requiring co-signature
+KB18711 v2.0 Revised by Amabile, Maria 3 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Description Caller's stating they're trying to discharge a patient, or submit some other ADT related order, but cannot because an admission or observation order needs to be co-signed, can be assisted directly at the Service Desk. Support If a caller...
+Knowledge Base: HFHS Service Desk
+Streaming Videos from Operating Room (OR) Support
+KB23363 v9.0 Revised by Fuller, Dee Last updated 6mo ago Rating ☆☆☆☆☆
+Impacted Service: Streaming Videos from OR Description Operating room medical video streaming and recording systems allow a surgeon to manage the information sources in the operating room. Captured video can be put on larger screens for easy visibility or...
+Knowledge Base: HFHS Service Desk
+Outlook Email Retention
+KB22929 v6.0 Revised by Amabile, Maria 1 View Last updated 6mo ago Rating ☆☆☆☆☆
+Description Beginning April 30, only two years of email will be available in both HFHS Outlook mailboxes and HFHS Archive Manager, the system that retains a copy of your emails. Emails will be permanently deleted from both places. These changes affect all...
+Knowledge Base: HFHS Service Desk
+Outlook Shared Calendar Issue - Allegiance Computers
+KB21876 v2.0 Revised by Amabile, Maria 3 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Description Beginning on June 11th, HFHS CORP IT received reports of several users within the Allegiance region having trouble reaching shared resources from Outlook. Issues were reported with: Shared Calendars Shared Mailboxes Distribution Lists End Users...
+Knowledge Base: HFHS Service Desk
+Career Ready 101
+KB20022 v1.0 Authored by Stoner, Clint 3 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Description: Career Ready 101 is used to review and determine which courses someone would like to take to increase their skills. There are a variety of courses available, ranging from Applied Math, Fluid Dynamic and Thermodynamics to Teamwork and Basic...
+Knowledge Base: HFHS Service Desk
+Cedaron CardiacCare Application Support
+KB20138 v2.0 Revised by Amabile, Maria Last updated 6mo ago Rating ☆☆☆☆☆
+Impacted Service: Cedaron Description Cedaron is an application used in the Cardiology departments at HF Main Campus and HF Allegiance Hospital. The application links to a federal registry related to percutaneous coronary interventions. The registry is...
+Knowledge Base: HFHS Service Desk
+Digital Clocks - Allegiance Health
+KB22115 v1.0 Authored by Fuller, Dee Last updated 6mo ago Rating ☆☆☆☆☆
+Description The Digital Clocks at Allegiance Health all sync with our system for charting purposes/vital signs, etc. Issues: Server side/syncing of the clocks = Ben Mohlenhoff/ Tech Supervisor takes care of Operational part of the clock (like the light...
+Knowledge Base: HFHS Service Desk
+Vendormate
+KB22349 v4.0 Revised by Amabile, Maria 5 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Description Vendormate devices are set up to auto display a login screen for vendors to sign in. Issue: If device is not working properly Resolution: Agent will need to remote to the device and reboot. It will auto login and bring up the correct screen for...
+Knowledge Base: HFHS Service Desk
+APS - Billing Vendor for Allegiance Pathology
+KB22535 v1.0 Authored by Fuller, Dee 2 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Description APS is the billing vendor Allegiance Pathology uses. Assignment Group Any issues with APS a ticket needs to be created and assigned to Interface Engine team....
+Knowledge Base: HFHS Service Desk
+Vsys One (Volunteer Services HFHS and Allegiance)
+KB22942 v3.0 Revised by Fuller, Dee 1 View Last updated 6mo ago Rating ☆☆☆☆☆
+Impacted Service: HFHS: Vsys One| Allegiance: Volunteer Vsys - HFAH Description This software used to manage, schedule, communicate with and track volunteers. It is only used in the volunteer areas of HFHS and Allegiance. Support NOTE: While both HFHS...
+Knowledge Base: HFHS Service Desk
+Taleo Help Desk Guide
+KB19136 v4.0 Revised by Sezniak, Stefan 72 Views Last updated 6mo ago Rating ☆☆☆☆☆
+ATTENTION: Users will not be able to use the Taleo single sign-on functionality when using a generic/auto-login computer. Corp authentication is required. The following error is produced when attempting to log on from a generic/auto-login computer: SP...
+Knowledge Base: HFHS Service Desk
+Epic and Outlook Calendar Integration
+KB20661 v4.0 Revised by Fuller, Dee 4 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Impacted Service: Epic Description It is now possible for providers to have their Epic calendar in sync with their Outlook calendar. Access This is something that must be requested via a specific request catalog item called Epic Outlook Calendar...
+Knowledge Base: HFHS Service Desk
+MyChart Bedside / My Bedside Support
+KB18130 v3.0 Revised by Fuller, Dee Last updated 6mo ago Rating ☆☆☆☆☆
+Impacted Service: MyChart Description MyChart Bedside tablets will be given to patients so they can access the MyChart Bedside application, which will give them information about their care team, upcoming tests and results, and patient education...
+Knowledge Base: HFHS Service Desk
+Henry Ford Allegiance Volunteer's Gift Shop - CounterPoint POS Application
+KB22543 v4.0 Revised by Amabile, Maria 2 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Description As of November 12, 2018 HFHA Gift Shop POS (CounterPoint POS) application is being upgraded and the servers are being relocated from HFAH to RHDV. CounterPoint is the POS application used by HFAH Gift Shop. This application is not supported by...
+Knowledge Base: HFHS Service Desk
+Remote Corp Password Reset (Password is about to expire or Corp account has been locking out)
+KB18067 v1.0 Authored by Woodrich, Melanie 11 Views Last updated 6mo ago Rating ☆☆☆☆☆
+NOTE: This will only work if the caller currently has the ability to log into the laptop and into PulseSecure/Junos Pulse. If you are dealing with a caller who is working from home and gets repeat lock outs after a password reset, and the Lockout Tool...
+Knowledge Base: HFHS Service Desk
+Patient Incorrectly Registered/ Wrong MRN/ Information Scanned to Wrong Patient Chart/ Contact Move
+KB18058 v8.0 Revised by Fuller, Dee 34 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Please read this article in its entirety before proceeding. - There are two scenarios covered. Wrong Registration/MRN or Charting on Incorrect Patient Record Follow Steps 1 - 4 below if the Service Desk receives a call that a patient was incorrectly...
+Knowledge Base: HFHS Service Desk
+Morrisey Application Suite
+KB19296 v15.0 Revised by Fuller, Dee 12 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Impacted Service: Morrisey Aliases: Morrisey, MSOW, SOW, MSOW PROD, aka iPrivilege Description Morrisey Privilege Inquiry (formerly iPrivilege) is an application that replaced Visual Cactus as the preferred solution for Centralized Credentialing Services...
+Knowledge Base: HFHS Service Desk
+Verint PopUp Client Launcher Icon
+KB18786 v1.0 Authored by Shipman, Ryan J. 9 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Description: Verint pop ups are notifications which inform a user with a schedule published in the Verint Impact 360 application suite of their breaks, lunches, and other events. Support: If a caller contacts us because their Verint pop ups are no longer...
+Knowledge Base: HFHS Service Desk
+Connection Error on iOS device - When using Lightaccess and HenryApps
+KB18226 v1.0 Authored by Woodrich, Melanie 4 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Citrix Receiver 6.1 for iOS “Connection Error” Citrix released an update to their Citrix Receiver app for iOS devices, version 6.1. This update causes and error that will not allow the user to start any application and they get the error “Connection Error:...
+Knowledge Base: HFHS Service Desk
+User is unable to access their email account via OWA (Error: A mailbox couldn't be found)
+KB22281 v4.0 Revised by Fuller, Dee 12 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Description After 365 consecutive days of being unused HFHS email accounts are automatically disabled. Those accounts will remain available for ONLY 30 days and during that 30 day period they CAN be re-enabled. NOTE: After 30 days, it may NOT be possible...
+Knowledge Base: HFHS Service Desk
+Events not Showing or Labs or Medications are Not Working on Anesthesia Record
+KB18106 v1.0 Authored by Woodrich, Melanie 1 View Last updated 6mo ago Rating ☆☆☆☆☆
+We are currently experiencing technical difficulties with the Anesthesia Record report for Anesthesia Records dated August 2013 - July 2015. Events, some lab, and outpatient medication sections may not be accurately displayed. You can access a new Chart...
+Knowledge Base: HFHS Service Desk
+RDP Support
+KB18065 v8.0 Revised by Fuller, Dee 18 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Description Remote Desktop Protocol (RDP) allows people to remotely access workstations that are located at HFHS locations while they are away from the facilities and to connect to servers from their workstations. Quick Links Access Determining if a User...
+Knowledge Base: HFHS Service Desk
+Edit a Signed Order Using the Visit Task Bar (Epic)
+KB23589 v1.0 Authored by Fuller, Dee 2 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Description This knowledge article describes how to edit a signed order that has not yet been acted upon using the Visit Task Bar in Epic. How to Edit a Signed Order Using the Visit Task Bar 1.Open the Review orders signed in this visit clipboard icon then...
+Knowledge Base: HFHS Service Desk
+Visit Taskbar- For Placing and Signing Orders in Outpatient Encounters
+KB23339 v2.0 Revised by Amabile, Maria Last updated 6mo ago Rating ☆☆☆☆☆
+Description The visit taskbar is your new home for placing and signing orders in outpatient encounters. Available in telephone encounters, orders only and documentation encounters. The taskbar appears at the bottom of the workspace throughout the encounter...
+Knowledge Base: HFHS Service Desk
+Missing Epic Icons Due To Citrix Upgrade
+KB19185 v1.0 Authored by Shipman, Ryan J. 11 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Missing Epic Icons Due To Citrix Upgrade Due to the recent Citrix upgrade in preparation for Epic 2015 there have been a number of reported instances of Epic icons disappearing off of desktops, below is a list of troubleshooting steps that should be...
+Knowledge Base: HFHS Service Desk
+Change Context
+KB22280 v1.0 Authored by Fuller, Dee Last updated 6mo ago Rating ☆☆☆☆☆
+Description When an end user is new to Epic, he or she may not be logged into the right department. If the end user is new to Epic, they will need to log, then 'Change Context' or change department so that they are not in the 'read only' mode. The...
+Knowledge Base: HFHS Service Desk
+Allegiance - AH Deskside Main and AH Desktop 1J2 Ticket Routing
+KB22235 v12.0 Revised by Fuller, Dee 45 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Description This article explains how to decide if an AH tickets needs to go to AH Deskside Main or AH Desktop 1J2. The asset tag information may display the tech team that normally works on it, but many AH end users go back and forth between facilities...
+Knowledge Base: HFHS Service Desk
+Widescreen View (Epic) - How to Use
+KB23340 v3.0 Revised by Amabile, Maria 33 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Description Widescreen view is a new layout in all of the outpatient departments. It provides a larger landscape for placing orders, completing documentation and reviewing the patients chart. On April 27, 2019 the Outpatient Departments will automatically...
+Knowledge Base: HFHS Service Desk
+Extranet Support
+KB23595 v4.0 Revised by Fuller, Dee 4 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Impacted Service: Wintel Services Description The extranet is a private network used to securely share part of a company's information or operations with suppliers, vendors, partners, customers, or other businesses. Support The HFHS DMZ, commonly referred...
+Knowledge Base: HFHS Service Desk
+Puff City
+KB19172 v3.0 Revised by Fuller, Dee Last updated 6mo ago Rating ☆☆☆☆☆
+Impacted Service: Puff City Description Puff City is a web-based asthma management tool designed to help urban teenagers deal with their asthma or breathing problems. Support Support is handled by the Business Systems Applications team and all issues...
+Knowledge Base: HFHS Service Desk
+ISCUS Flex Point of Care Analyzer (Vendor: M Dialysis)
+KB23488 v6.0 Revised by Amabile, Maria Last updated 6mo ago Rating ☆☆☆☆☆
+Impacted Service: ISCUSFlex Microdialysis Analyzer Description There are two Microdialysis Cerebral Brain Fluid Analyzers from the M Dialysis vendor. They are stand alone machines that do not interface with Epic or any other applications. The results will...
+Knowledge Base: HFHS Service Desk
+Complex KB Template-Open Source Code (< >), Select All , and paste into new article's Source Code
+KB19930 v7.0 Revised by Amabile, Maria 1 View Last updated 6mo ago Rating ☆☆☆☆☆
+Description This application is used by WHO at these locations WHERE to do WHAT. Quick Links Link 1 Link 2 Link 3 Link 4 Link 5 Link 6 NOTE: Highlight the associated link and type the new name. Don't forget to update the section title below. Top of page...
+Knowledge Base: HFHS Service Desk
+Support for Mobile Medical Units (Hank and Clara Vans)
+KB18115 v2.0 Revised by Fuller, Dee 2 Views Last updated 6mo ago Rating ☆☆☆☆☆
+Impacted service: School Based Health Description HFHS owns mobile medical vans called Hank and Clara. These vans visit schools and provide mobile health care for children in need. Support Issues with connectivity should start with the Endpoint Solutions...
+Knowledge Base: HFHS Service Desk
+Microsoft Teams
+KB23509 v3.0 Revised by Fuller, Dee 20 Views Last updated 7mo ago Rating ☆☆☆☆☆
+Impacted Service: MS Teams Description Microsoft Teams is a unified communications platform that combines persistent workplace chat, video meetings, file storage, and application integration. The service integrates with Office 365 and features extensions...
+Knowledge Base: HFHS Service Desk
+Telesis
+KB23512 v1.0 Authored by Fuller, Dee 1 View Last updated 7mo ago Rating ☆☆☆☆☆
+Description What does Telesis do? Biofeedback software for Pathway MR Series single and dual channel handheld biofeedback systems. Telesis contains all of the same displays, applications and modified protocols that have been so popular with Synergy 3D...
+Knowledge Base: HFHS Service Desk
+Signal
+KB23511 v1.0 Authored by Fuller, Dee Last updated 7mo ago Rating ☆☆☆☆☆
+Description Signal is Epic's newest efficiency tool and helps end user take a data-driven approach to measuring physician efficiency with Epic. Signal shows end user how ambulatory physicians are using Epic in four key areas- InBasket, Orders, Notes and...
+Knowledge Base: HFHS Service Desk
+CBORD - Allegiance Health Support
+KB21951 v4.0 Revised by Fuller, Dee 5 Views Last updated 7mo ago Rating ☆☆☆☆☆
+Impacted Service: CBORD Patient Food Service - HFAH Description CBORD is split between multiple entities at Allegiance Health the general structure is shown below, this is not an exhaustive list but seeks to provide some clarity of whom to contact...
+Knowledge Base: HFHS Service Desk
+SHP Sweeper
+KB23490 v1.0 Authored by Fuller, Dee Last updated 7mo ago Rating ☆☆☆☆☆
+Description The SHP Sweepers and interfaces give end users the ability to easily, conveniently and securely transmit HIPAA protected PHI data to SHP. The Sweepers and interfaces are able to connect to and extract data from various vendor databases as well...
+Knowledge Base: HFHS Service Desk
+Swisslog Pneumatic Tube Computer Support
+KB18287 v1.0 Authored by Woodrich, Melanie Last updated 7mo ago Rating ☆☆☆☆☆
+The Swisslog Pneumatic Tube Computer is vendor-supported hardware. One is located at Wyandotte Hospital, the other at Henry Ford Hospital. They use Windows XP. Wyandotte Support Contacts: Mike Mahony – 313-363-6712 Dan Szwaluk – 313-350-7694 Henry Ford...
+Knowledge Base: HFHS Service Desk
+Care Plan Documentation Navigator (Epic)
+KB23361 v2.0 Revised by Amabile, Maria 1 View Last updated 7mo ago Rating ☆☆☆☆☆
+Description The new Care Plan Documentation navigator appears automatically in the care plan documentation workflow to allow staff to: Access information about a patient’s care plan more easily Document a patient's progress File related flowsheet...
+Knowledge Base: HFHS Service Desk
+EDW (analytics.hfhs.org) Support
+KB17996 v2.0 Revised by Fuller, Dee 5 Views Last updated 8mo ago Rating ☆☆☆☆☆
+Description EDW houses all analytical reports and is accessed via analytics.hfhs.org. This is a stand-alone SharePoint site that DOES NOT interact with OneHENRY. Support Login It's open to all employees, using their Corp ID & Password, though access to...
+Knowledge Base: HFHS Service Desk
+QueueKeeper
+KB23019 v2.0 Revised by Woodrich, Melanie 7 Views Last updated 8mo ago Rating ☆☆☆☆☆
+Description The purpose of this KB is to inform the IT Service Desk what to do if end user calls regarding QueueKeeper Inform end user of the following: If end user is having difficulty with QueueKeeper, inform the end user that they should contact their...
+Knowledge Base: HFHS Service Desk
+Gift of Life (GOL)
+KB23070 v1.0 Authored by Fuller, Dee 2 Views Last updated 8mo ago Rating ☆☆☆☆☆
+Description Issue: It seems the GOL Gift of Life end user accounts were being created with gol in front of them, for example: golmack, golpower, jroepk, golblaie, golerick, gollewis All of these accounts are currently disabled in the Wafoote domain. They...
+Knowledge Base: HFHS Service Desk
+RetinaVue
+KB22984 v2.0 Revised by Amabile, Maria 1 View Last updated 8mo ago Rating ☆☆☆☆☆
+Description RetinaVue is a product consisting of handheld retina cameras and the network software that includes population health management and quality reporting tools. Purpose is to more effectively manage retinal exam data, which receives information...
+Knowledge Base: HFHS Service Desk
+BD IV Prep (fka BD Cato)
+KB18175 v6.0 Revised by Amabile, Maria 2 Views Last updated 9mo ago Rating ☆☆☆☆☆
+NOTE: BD Cato has been renamed and is now called BD IV Prep Description BD IV Prep is an application used in the handling and preparation of compound sterile products for chemotherapy. It replaces EnvisionRx Pharm Q as of 9/29/15.It is supported by DAP. BD...
+Knowledge Base: HFHS Service Desk
+Epic IPO Procedures - Inpatient Only
+KB22917 v2.0 Revised by Amabile, Maria Last updated 9mo ago Rating ☆☆☆☆☆
+Description There are changes to how the following orders are scheduled: Change includes: There is a new visit type associated to these orders that should be used at the time of scheduling when the patient has a CMS qualifying payor (Medicare/Medicaid)....
+Knowledge Base: HFHS Service Desk
+eAudio
+KB22911 v2.0 Revised by Amabile, Maria 1 View Last updated 9mo ago Rating ☆☆☆☆☆
+Description eAudio is a custom app developed for Audiology, developed by RKT Creative (vendor). Assignment Group: Any issues related to eAudio, will need to create a ticket and assign to Business Systems Applications....
+Knowledge Base: HFHS Service Desk
+How to Grant Access to End Users In Basket and How to Attach to Someones In basket
+KB18990 v7.0 Revised by Woodrich, Melanie 4 Views Last updated 9mo ago Rating ☆☆☆☆☆
+Description: The purpose of this article is to provide steps for service desk agent and end user on how to grant access to end user's In Basket and how to attach to someone's In Basket Step 1: How to Grant Access to End User's In Basket The following is...
+Knowledge Base: HFHS Service Desk
+Transaction Flow Redesign (TFR)
+KB22884 v2.0 Revised by Amabile, Maria Last updated 9mo ago Rating ☆☆☆☆☆
+Description Transaction Flow Redesign is a large initiative undertaken by the Revenue Cycle Corporate. This large program is running system wide. Redesign process is aligning about 300 billers to new work structure. New Redesign and workflow process have...
+Knowledge Base: HFHS Service Desk
+Board of Governors (BOG) Database
+KB22848 v1.0 Authored by Fuller, Dee Last updated 10mo ago Rating ☆☆☆☆☆
+Description The Board of Governors (BOG) database is critical to the management and operations of the Henry Ford Medical Group. It is used to manage resources, voting, issuance of personal computing devices (PCD) (i.e., iPhones), as well as numerous other...
+Knowledge Base: HFHS Service Desk
+Source HOV / Filezilla / ScanPro Support
+KB18227 v1.0 Authored by Woodrich, Melanie 3 Views Last updated 10mo ago Rating ☆☆☆☆☆
+SourceHOV allows non-HFHS medical information to be scanned in and pulled into Epic. It uses an FTP site - Filezilla and software called ScanPro. The Fujitsu Document Scanners (6130 or 7160) are used for this, but they are also used for other scanning, so...
+Knowledge Base: HFHS Service Desk
+Non-Patient Transport at Main Campus, West Bloomfield, Wyandotte, and Macomb Hospitals
+KB22813 v3.0 Revised by Amabile, Maria Last updated 10mo ago Rating ☆☆☆☆☆
+Description On Wednesday, January 30 2019, Epic will go-live with Non-Patient Transport at all Henry Ford hospitals with the exception of Henry Ford Allegiance Health (HFAH) hospital as they are already using this functionality. With this new...
+Knowledge Base: HFHS Service Desk
+CPM 2018 Upgrade (January 2019)
+KB22802 v8.0 Revised by Amabile, Maria 2 Views Last updated 10mo ago Rating ☆☆☆☆☆
+Description Clinical Practice Model (CPM) is currently on the Spring 2015 content version. To keep the clinical content of HFHS Epic up to date, an upgrade from CPM Spring 15 to 2018 is required. This will allow for new Clinical Practice Guidelines and...
+Knowledge Base: HFHS Service Desk
+Duplicate Orders and Lab Orders in Epic - How to cancel/remove
+KB21656 v5.0 Revised by Amabile, Maria 2 Views Last updated 10mo ago Rating ☆☆☆☆☆
+Description When duplicate orders or lab orders are placed in Epic by the same provider or by multiple providers, the end user will need to identify which order to keep and which one to remove (see screen shot below of what end user sees in Epic). In this...
+Knowledge Base: HFHS Service Desk
+Epic - Provider cannot order labs with a "daily" frequency anymore
+KB18931 v2.0 Revised by Amabile, Maria 2 Views Last updated 10mo ago Rating ☆☆☆☆☆
+Description: The ability to order labs with a daily frequency, basically a standing order for a lab to be done every day without a new order being put in the system, has been removed from Epic. Support: We can let the caller know this was an intentional...
+Knowledge Base: HFHS Service Desk
+How to Void a Sent Letter or Delete an Open (Unsent) Letter in Epic
+KB22284 v4.0 Revised by Amabile, Maria 2 Views Last updated 11mo ago Rating ☆☆☆☆☆
+Description This KB article explains how to void or delete letters that may have been created in error and appear in end users Inbasket Letter Queue. The following is a tip sheet that has the steps of how to void or delete letters that have been created in...
+Knowledge Base: HFHS Service Desk
+Customizing Epic Color Themes
+KB22109 v5.0 Revised by Amabile, Maria 5 Views Last updated 11mo ago Rating ☆☆☆☆☆
+Description This article explains how to customize Epic color themes for all Epic end users. The following steps will demonstrate the Personallization workflow to change the default color themes within Epic. How to Customize Epic Color Themes:...
+Knowledge Base: HFHS Service Desk
+NetBrain
+KB22105 v3.0 Revised by Amabile, Maria Last updated 11mo ago Rating ☆☆☆☆☆
+Description NetBrain is used for network documentation (automated drawings) and network configuration by both Henry Ford Health System and Allegiance Health. NetBrain V. 7.0 Assignment Group: NetBrain issues cannot be resolved by the IT Service Desk =...
+Knowledge Base: HFHS Service Desk
+Epic Vascular Lab Orders Update
+KB22038 v5.0 Revised by Amabile, Maria 1 View Last updated 11mo ago Rating ☆☆☆☆☆
+Description NOTE: The functionality below was backed out on 8/10/2018 and will be implemented at a later time. Starting on Thursday, August 9th all Epic ordering providers and Syngo end users should be aware that there will be three new Epic Vascular Lab...
+Knowledge Base: HFHS Service Desk
+Pharmacy Integration with TrustCommerce Support
+KB21962 v3.0 Revised by Amabile, Maria 4 Views Last updated 11mo ago Rating ☆☆☆☆☆
+Description Pharmacy Advantage and Online Pharmacy allows ability for patients to make online and telephone IVR payments., they did not have the ability to take online payments. Pharmacy Integration with TrustCommerce Support enables this functionality to...
+Knowledge Base: HFHS Service Desk
+Henry Ford Allegiance Health On-Call Numbers
+KB21950 v2.0 Revised by Amabile, Maria 2 Views Last updated 11mo ago Rating ☆☆☆☆☆
+Description This article contains the Henry Ford Allegiance Health On - Call Numbers and information. Henry Ford Allegiance Health Data Center (Operations Center) Phone number is: 517-205-4783 Staffed 24 hours, 7 days a week ***The Henry Ford Allegiance...
+Knowledge Base: HFHS Service Desk
+Cologuard Order - EpicCare Ambulatory
+KB21904 v4.0 Revised by Amabile, Maria Last updated 11mo ago Rating ☆☆☆☆☆
+Description Cologuard is a Colorectal cancer-screening test that detects altered DNA and/ or blood in the stool as a way to find cancer in its early stage. It is approved by the United States Preventive Services Task Force and HEDIS as one of the...
+Knowledge Base: HFHS Service Desk
+HFAH 3 Way Speaker Phones aka BAT Phones
+KB21874 v2.0 Revised by Amabile, Maria Last updated 11mo ago Rating ☆☆☆☆☆
+Description This article explains how an end user can schedule an HFAH 3 Way Speaker Phone, also known as a BAT Phone. Scheduling a BAT Phone End users can schedule their own equipment the same way they would schedule a meeting or appointment for a...
+Knowledge Base: HFHS Service Desk
+Restoring Files and Folders on the Z Drive on the Wafoote Domain
+KB21870 v2.0 Revised by Amabile, Maria 3 Views Last updated 11mo ago Rating ☆☆☆☆☆
+Description This article explains how to restore files/folders on the Z drive on the Wafoote Domain. Issue: End user needs to have files/folders restored on the Z drive on the Wafoote Domain. End user clicked on something and deleted a bunch of folders by...
+Knowledge Base: HFHS Service Desk
+Home Health Hospice Scanning to Media Manager Encounter Level, Order Level, Creating a New Encounter
+KB21324 v7.0 Revised by Amabile, Maria 1 View Last updated 11mo ago Rating ☆☆☆☆☆
+Description In Epic, Home Health Hospice (HHH) clinical and non clinical staff will be responsible for scanning clinical documents as part of the scanning workflow. Please see the following tip sheet for more information: HHH Scanning to Media...
+Knowledge Base: HFHS Service Desk
+How to get the Re-Order Button Back When Missing in Medications and Orders in Epic
+KB21684 v4.0 Revised by Amabile, Maria Last updated 11mo ago Rating ☆☆☆☆☆
+Description This article explains how to help a user get their re-order button back if it goes missing in Meds and Orders in Epic Hyperspace. Problem: End user will call in stating "their re-order button disappears" Cannot See the Re-order Button in Med &...
+Knowledge Base: HFHS Service Desk
+Behavioral Health Services - Salesforce CRM Support Structure
+KB21552 v4.0 Revised by Amabile, Maria 7 Views Last updated 11mo ago Rating ☆☆☆☆☆
+Description The purpose of this article is to explain the support process for the Salesforce Customer Relationship Manager tool (hereafter referred to as CRM). Its purpose is to direct users on which issues should follow which path or process, and what the...
+Knowledge Base: HFHS Service Desk
+Hospice Billing and Clinical Regulations
+KB21542 v4.0 Revised by Amabile, Maria 2 Views Last updated 11mo ago Rating ☆☆☆☆☆
+Description Hospice care is divided into segments called Benefit Periods. A patient's first two Benefit Periods can last 90 days, while the third and subsequent Benefit Periods will only be 60 days long. Though Benefit periods are important, they are not...
+Knowledge Base: HFHS Service Desk
+Cranial Cloud
+KB22774 v3.0 Revised by Amabile, Maria Last updated 11mo ago Rating ☆☆☆☆☆
+Description Cranial Cloud is: An application for neurologist within a cloud-based environment/architecture to support interdisciplinary collaborative efforts in neuronal disorders. An application that combines neurological data management and cloud...
+Knowledge Base: HFHS Service Desk
+WellOpp
+KB22767 v3.0 Revised by Amabile, Maria Last updated 11mo ago Rating ☆☆☆☆☆
+Contact for Issues: For all issues relay them to Aaron Sohaski: Regular Hours: He can be reached via phone from 8:00am-4:30pm, Monday through Friday Phone number is 313-876-4431 If it is an Emergency: He can be reached on his cell phone Cell phone number...
+Knowledge Base: HFHS Service Desk
+Henry Ford Hospital Apartment Complex
+KB18730 v2.0 Revised by Sezniak, Stefan Last updated 11mo ago Rating ☆☆☆☆☆
+Wi-fi in the apartments onsite at Henry Ford Hospital is not supplied or supported by the Wireless team. The caller should be directed to the building manager for the apartments. These apartments DO contain DeskSide supported green tagged computers. The...
+Knowledge Base: HFHS Service Desk
+GM Connected Care (Epic)
+KB22706 v2.0 Revised by Amabile, Maria 2 Views Last updated 11mo ago Rating ☆☆☆☆☆
+Description GM Connected Care plan is a direct to employer healthcare contract between General Motors (GM) and Henry Ford Health System.This knowledge article explains the steps for identifying a GM Product Employee recipient and selecting the Blue Cross...
+Knowledge Base: HFHS Service Desk
+Epic Communication Management
+KB22647 v1.0 Authored by Fuller, Dee Last updated 11mo ago Rating ☆☆☆☆☆
+Description This article explains how to do the following in Epic Communication Management: How to Create a Communication Letter How to Configure Update Options for Sending Communication in Epic How to Void a Sent Letter or Delete and Open (Unsent) Letter...
+Knowledge Base: HFHS Service Desk
+VisiLoc (HIE Initiative)
+KB22677 v1.0 Authored by Fuller, Dee Last updated 12mo ago Rating ☆☆☆☆☆
+Description VisiLoc (by VisiTrac) is: An HIE (Health Information Exchange) service that gathers ADT data via an interface with MiHIN and PointClickCare and generates reports Used by the Care Managers at JCMR. Assignment Group For any/all issues with...
+Knowledge Base: HFHS Service Desk
+Agfa - Allegiance Health
+KB22417 v1.0 Authored by Fuller, Dee Last updated 12mo ago Rating ☆☆☆☆☆
+Description This article explains what group receives the ticket when the IT Service Desk gets a call about an Agfa issue. Assignment Groups Agfa Issues, ticket should be assigned to the AGFA Support team Problem writing or retrieving data assign the...
+Knowledge Base: HFHS Service Desk
+Epic Radiant - (only used at Allegiance Health)
+KB22659 v1.0 Authored by Fuller, Dee 3 Views Last updated 12mo ago Rating ☆☆☆☆☆
+Description Epic Radiant is Epic Systems' Radiology Information System (RIS). It is used by hospital radiology departments. Radiant offers access to all of a patient's results, allergies, medications, history and upcoming appointments.According to Epic...
+Knowledge Base: HFHS Service Desk
+How to Create a Communication Letter in Epic
+KB22653 v1.0 Authored by Fuller, Dee Last updated 12mo ago Rating ☆☆☆☆☆
+Description This article explains how to create a Communication Letter in Epic. How to create a Communication Letter in Epic: 1. Click on the Communication tab 2. Click on the New Communication button 3. The Communicate Management screen appears 4. Click...
+Knowledge Base: HFHS Service Desk
+Unable to create a HAR (Hospital Account Record) at the end of Registration
+KB22639 v4.0 Revised by Amabile, Maria 1 View Last updated 12mo ago Rating ☆☆☆☆☆
+Description A HAR is a Hospital Account Record. The account number in Epic associated with the charges for the study for one calendar month. With the December SU, HF is removing the Checklist Form. The Checklist Form will go away and now end user will need...
+Knowledge Base: HFHS Service Desk
+POPin and Be Heard
+KB22621 v6.0 Revised by Amabile, Maria Last updated 12mo ago Rating ☆☆☆☆☆
+Description POPin & Be Heard is: An interactive online crowdsourcing tool The tool also allows team members to view and comment, in real time, on what their colleagues are saying. Similar to social media, team members can give a thumbs up, thumbs down or...
+Knowledge Base: HFHS Service Desk
+Ride Systems
+KB22641 v3.0 Revised by Amabile, Maria Last updated 12mo ago Rating ☆☆☆☆☆
+Description Ride Systems has replaced RideHop. It is a new shuttle and parking lot tracking app. This app will track the red, green and blue shuttle routes between Henry Ford Hospital, parking lots and garages, and One Ford Place. Ride Systems can be used...
+Knowledge Base: HFHS Service Desk
+Cipher Health Orchid Kiosk
+KB19332 v4.0 Revised by Sezniak, Stefan 2 Views Last updated 12mo ago Rating ☆☆☆☆☆
+Description Cipher's Orchid Kiosk is an application installed on iPads around the enterprise that allows patients to participate in a 5 question survey on their experience. Support The iPads are supported by the Cellular team The application is supported...
+Knowledge Base: HFHS Service Desk
+Unable to launch University from Workforce Connect (Employee and Manager Self-Service)
+KB22175 v4.0 Revised by Fuller, Dee 83 Views Last updated about a year ago Rating ☆☆☆☆☆
+Symptom The HFHS University link within Workforce Connect (HR) uses single-sign-on authentication, this link can break if the user has manually reset their HFHS University specific password from default of the last four of the SSN or Alt ID....
+Knowledge Base: HFHS Service Desk
+Epic - Epic user suddenly has only "Read Only" access
+KB18683 v2.0 Revised by Fuller, Dee 4 Views Last updated about a year ago Rating ☆☆☆☆☆
+Callers accidentally logging into Epic Downtime SRO and only having access to "Read Only" Callers who report suddenly having "Read Only" access in Epic, having successfully logged in with fuller access previously, and being logged into the proper context,...
+Knowledge Base: HFHS Service Desk
+iSTAT
+KB22579 v1.0 Authored by Fuller, Dee 1 View Last updated about a year ago Rating ☆☆☆☆☆
+Description The iSTAT is a Point of Care device and downloader. The device is removed from the downloader to performed testing near the patient using different cartridges. The HF Health system uses about 4-5 different cartridges. Once the device is done...
+Knowledge Base: HFHS Service Desk
+ControlTex : Linen Ordering
+KB18763 v3.0 Revised by Fuller, Dee 7 Views Last updated about a year ago Rating ☆☆☆☆☆
+Description ControlTex is a desktop icon used for linen ordering and inventory. The software is supplied by a company called Standard Textile. The caller's may note that they use a hand held device with the application. Support The ControlTex desktop icon...
+Knowledge Base: HFHS Service Desk
+Health Records on iPhone - Available to Henry Ford patients
+KB22562 v3.0 Revised by Amabile, Maria Last updated about a year ago Rating ☆☆☆☆☆
+Description Henry Ford Health System (HFHS) now supports Health Records on iPhone, which brings together hospitals, clinics and the existing Apple Health app to make it easy for patients to see their available medical data from multiple providers whenever...
+Knowledge Base: HFHS Service Desk
+Parking Systems at Cottage
+KB22502 v2.0 Revised by Amabile, Maria Last updated about a year ago Rating ☆☆☆☆☆
+***Note: The following KB article below is ONLY for Cottage garage, for any other locations please see KB15211 Parking Lot System - Police Authority Description Installation of a parking system has been put in for the Cottage garage. The parking system...
+Knowledge Base: HFHS Service Desk
+ServiceNow Password Reset Tool - Allegiance Health Support
+KB19316 v5.0 Revised by Woodrich, Melanie 1 View Last updated about a year ago Rating ☆☆☆☆☆
+NOTE: YOU CAN ONLY OPEN ONE TAB OF THE PASSWORD RESET TOOL PER BROWSER! If you open multiple tabs of the password reset tool in the same browser (even if they're in different windows), it will cause errors and password reset failures because ServiceNow...
+Knowledge Base: HFHS Service Desk
+New Hire Onboarding Help
+KB21667 v2.0 Revised by Fuller, Dee 4 Views Last updated about a year ago Rating ☆☆☆☆☆
+If a new hire needs help with new-hire specific issues (like difficulty completing pre-hire work),they can contact Onboarding support at 313-876-7965....
+Knowledge Base: HFHS Service Desk
+Spectra Lab
+KB22305 v2.0 Revised by Fuller, Dee Last updated about a year ago Rating ☆☆☆☆☆
+Description Spectra Lab is used for all Dialysis patients in the system. It is a separate resulting agency that monitors peritoneal dialysis concentrates of varied results. The results they have are coded differently in Epic. Support Incidents should be...
+Knowledge Base: HFHS Service Desk
+Can Someone with Epic Access Look at Their Own Chart in Epic?
+KB22176 v1.0 Authored by Woodrich, Melanie 1 View Last updated about a year ago Rating ☆☆☆☆☆
+Yes. If you have access to Epic, you can look at your own chart. However, you may not look at the chart of any family member. If you have proxy access to a family member, such as a child, you may only access their information via MyChart....
+Knowledge Base: HFHS Service Desk
+Request a Static IP Address
+KB18761 v3.0 Revised by Fuller, Dee 6 Views Last updated about a year ago Rating ☆☆☆☆☆
+ATTENTION: An IT Request (ITR) must be submitted in order to have a static IP address assigned. Callers may be aware that there is a specific form other than the ITR for this process, but only Request Management has access to this form. When the Request...
+Knowledge Base: HFHS Service Desk
+Henry Ford Allegiance Outlook Email Integration - Migrate to HFHS email addresses
+KB20596 v8.0 Revised by Kohl, Jason Last updated about a year ago Rating ☆☆☆☆☆
+Description Beginning on 12/4/17 new Allegiance Health employees began being assigned @hfhs.org email addresses and starting on 12/14/17 some existing employees will begin to be migrated to @hfhs.org email addresses. Migration Schedule Starting 1/5/18 at...
+Knowledge Base: HFHS Service Desk
+A-CHESS Support
+KB21297 v2.0 Revised by Kohl, Jason Last updated about a year ago Rating ☆☆☆☆☆
+Description A-CHESS is a comprehensive relapse prevention platform for patients with substance abuse disorder. There is a patient mobile app and a Caregiver Dashboard and Companion app. This will be used by both Maplegrove providers and Maplegrove...
+Knowledge Base: HFHS Service Desk
+Eyefinity - Optimeyes EMR
+KB18138 v2.0 Revised by Amabile, Maria Last updated about a year ago Rating ☆☆☆☆☆
+Eyefinity is the EMR for Optimeyes. Issues: Any callers should be directed to contact the Optimeyes help desk at 248-577-3611....
+Knowledge Base: HFHS Service Desk
+Epic Constellation Information
+KB21029 v1.0 Authored by Stoner, Clint 1 View Last updated about a year ago Rating ☆☆☆☆☆
+Description Epic Constellation is a specific view into EpicCare Everywhere that collects information from 6 other health systems. This will be used by Providers, Care Managers, Nurses and other clinical staff throughout all of HFHS to be able to see...
+Knowledge Base: HFHS Service Desk
+USMON (Comprehensive Monitoring)
+KB19135 v2.0 Revised by Fuller, Dee Last updated about a year ago Rating ☆☆☆☆☆
+Description USMON is a comprehensive monitoring solution used for monitoring neurosurgery procedures. Technicians in the Operating Rooms launch USMON/IOM screen share to share their screens with doctors and other external professionals. Our primary user is...
+Knowledge Base: HFHS Service Desk
+HIE - Health Information Exchange
+KB18268 v3.0 Revised by Amabile, Maria Last updated about a year ago Rating ☆☆☆☆☆
+HIE Issues: Any issues or questions regarding HIE should be sent to the DAP team. Operational Support Current support process will remain in effect: Issues related with document statuses within Epic will be reported to the Care Everywhere Team Issues with...
+Knowledge Base: HFHS Service Desk
+Epic Patient Statements
+KB21968 v2.0 Revised by Amabile, Maria 7 Views Last updated about a year ago Rating ☆☆☆☆☆
+Description How to Populate Patient Estimates and taking pre-payments to be collected prior to the service date. This is a pilot that is impacting: 3 Locations: NCO, Columbus and Fairlane 2 payers: HAP and BCBS (Blue Cross Blue Shield) 2 specialties:...
+Knowledge Base: HFHS Service Desk
+Unable to get into Impax - Recieves Errors when trying to open Images
+KB21770 v1.0 Authored by Fuller, Dee 5 Views Last updated about a year ago Rating ☆☆☆☆☆
+Impax Error Problem: End user is unable to get into Impax and receives errors when trying to pen Images Resolution: Uncheck auto detect lan settings option box in IE (Internet Explorer)...
+Knowledge Base: HFHS Service Desk
+LabDaq
+KB21693 v3.0 Revised by Fuller, Dee Last updated about a year ago Rating ☆☆☆☆☆
+Description LabDaq is a product that uses a VPN tunnel to sync lab results between Dr. Ghazwan Atto's office and Epic/MirthJCMR. Private Practice Number: PP2003 Location: Downriver Medical Associates 2 Support Dr. Atto's office is the ONLY site using...
+Knowledge Base: HFHS Service Desk
+SurveyMonkey Enterprise Account
+KB18338 v2.0 Revised by Kohl, Jason 2 Views Last updated about a year ago Rating ☆☆☆☆☆
+Description SurveyMonkey is an online survey development cloud-based software. SurveyMonkey provides customizable surveys, as well as a suite of back-end programs that include data analysis, sample selection, bias elimination, and data representation...
+Knowledge Base: HFHS Service Desk
+Printing Cross Walk Home Health and Hospice
+KB21449 v7.0 Revised by Amabile, Maria Last updated about a year ago Rating ☆☆☆☆☆
+Mini Printers There are mini printers that are used by CCS Home Health and they are Epson printers, WF100. CCS Hospice does not use the mini printers. All of the CCS items are paired with a green-tagged laptop Is it the same support structure as the...
+Knowledge Base: HFHS Service Desk
+Application Support for Interfaces and Extracts - Home Health and Hospice
+KB21410 v6.0 Revised by Amabile, Maria 11 Views Last updated about a year ago Rating ☆☆☆☆☆
+Description This following are application support interfaces and extracts related to Home Health and Hospice (see screen shot below) Ticket Routing: Interface Data Issues - Things not working in Epic Ticket will go to Epic Interface Support Team Existing...
+Knowledge Base: HFHS Service Desk
+OASIS (Outcome and Assessment Information Set) - Home Health Billing
+KB21452 v8.0 Revised by Amabile, Maria Last updated about a year ago Rating ☆☆☆☆☆
+OASIS OASIS is an Outcome and Assessment Information Set to calculate expected reimbursement prior to services being billed. Medicare reimburses for home care based on these 60 day Cert Periods. The answers to the OASIS questions drive the reimbursement...
+Knowledge Base: HFHS Service Desk
+Philips Telemetry Cardiac Monitor
+KB18872 v3.0 Revised by Fuller, Dee 9 Views Last updated about a year ago Rating ☆☆☆☆☆
+Description Philips Telemetry Monitor is a portable device worn by, and attached to, a patient which transmits the patient’s heart rate and rhythm data through a wireless device to a central nursing station.The Philips Telemetry Monitor automatically...
+Knowledge Base: HFHS Service Desk
+When to Work Support
+KB21435 v2.0 Revised by Stoner, Clint Last updated 2y ago Rating ☆☆☆☆☆
+Description When to Work is a scheduling application that is used in the Surgery and Emergency departments at Macomb Hospital. The application can be used to check/update schedules, view notes from the user's manager, pick up/trade shifts, see who they're...
+Knowledge Base: HFHS Service Desk
+Sickbay Support
+KB21428 v2.0 Revised by Stoner, Clint Last updated 2y ago Rating ☆☆☆☆☆
+Description Sickbay is used in the 16 Neurology ICU beds at Henry Ford Hospital and contains three modules: RapidResearch, Patient History and Patient Monitoring. Sickbay includes a tool for automated data collection to support research activities and...
+Knowledge Base: HFHS Service Desk
+Home Health and Hospice Remote Client Self-Installation
+KB21325 v2.0 Revised by Amabile, Maria Last updated 2y ago Rating ☆☆☆☆☆
+Description Please follow the below steps in the tip sheet, to install the necessary applications on your laptop for the Epic Home Health client and related functionality. Several applications must be installed on end users laptop to run the Home Health...
+Knowledge Base: HFHS Service Desk
+Allegiance Missing Documentation
+KB21366 v2.0 Revised by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+Please flag this article with any support issues you encounter for Jackson users. Any info you can provide is helpful. Detail the problem so someone who isn't on the call can understand it. Detail any troubleshooting that works or doesn't work. Note any...
+Knowledge Base: HFHS Service Desk
+Here Be Dragons Error in Epic, or hyperlinks within Epic not pulling up info or the wrong data
+KB19413 v3.0 Revised by Kohl, Jason 4 Views Last updated 2y ago Rating ☆☆☆☆☆
+If a caller receives the "Here Be Dragons" error inside Epic (shown below), send the ticket with the URL listed to the Epic Security team. Hyperlinks within Epic not pulling up info or the wrong data There are hyperlinks and other links to websites,...
+Knowledge Base: HFHS Service Desk
+Endo Portal Support
+KB21083 v1.0 Authored by Stoner, Clint Last updated 2y ago Rating ☆☆☆☆☆
+Description Endo Portal is a web module that will allow physicians to remotely view stroboscopic video endoscopic exams from any PC that meets the minimum requirements. This is primarily used within the otolaryngology departments at HF Main Campus, HF...
+Knowledge Base: HFHS Service Desk
+PeopleSoft Legal Application
+KB21018 v1.0 Authored by Stoner, Clint Last updated 2y ago Rating ☆☆☆☆☆
+Description: The HFHS Legal department uses a custom-built application on the PeopleSoft platform. The application is used by 10-15 users within the Legal department. Support: Any issues with the application will be handled by the PeopleSoft HR team. All...
+Knowledge Base: HFHS Service Desk
+Checking if a computer is encrypted in ServiceNow
+KB19232 v2.0 Revised by Fuller, Dee 2 Views Last updated 2y ago Rating ☆☆☆☆☆
+Description This article describes how to go about determining if a Henry Ford asset is encrypted using ServiceNow (this process only applies to Windows machines, Macintosh machines will not show encryption status in Service Now) Support Put the asset tag...
+Knowledge Base: HFHS Service Desk
+SNOW License Manager
+KB18807 v1.0 Authored by Stoner, Clint Last updated 2y ago Rating ☆☆☆☆☆
+SNOW License Manager and SNOW Software Recognition Service SNOW is an application used to monitor software usage and licensing for applications within the health system. If you receive a call or an email with questions or issues with SNOW please create an...
+Knowledge Base: HFHS Service Desk
+CareFusion VMax
+KB18938 v1.0 Authored by Shipman, Ryan J. Last updated 2y ago Rating ☆☆☆☆☆
+Description: VMax is an application which runs reports relating to Pulmonary Function Tests (PFTs). Support: VMax is a vendor supported application. If a caller contact us regarding issues with VMax, please instruct the caller to contact the vendor...
+Knowledge Base: HFHS Service Desk
+Epsilon Imaging
+KB18368 v1.0 Authored by Ball, Randle Last updated 2y ago Rating ☆☆☆☆☆
+Description: Epsilon Imaging is a system that allows the Cardiology Non-Invasive staff to evaluate the strain on ultrasound studies. This service is heavily Vendor supported and a VPN is set up to allow them to remotely access the device at IP 10.25.65.205...
+Knowledge Base: HFHS Service Desk
+Cell Phone Reduction Initiative
+KB18344 v1.0 Authored by Woodrich, Melanie 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Information is kept at: The Cell Phone Initiative Page (you can direct callers to Henry.hfhs.org/cellphones) Support Issues - My Phone Is Not Working If a manager calls in saying that a phone was shut off and shouldn't have been, we can send an incident to...
+Knowledge Base: HFHS Service Desk
+Epic Monitor Unit Map
+KB20446 v1.0 Authored by Stoner, Clint Last updated 2y ago Rating ☆☆☆☆☆
+Description The Epic Monitor is a large display screen that shows a map of the patient unit. The monitor display includes information about which patients are in which rooms, what some of their requirements are, meal preferences, etc. Below is an example...
+Knowledge Base: HFHS Service Desk
+Cipher Voice
+KB18410 v1.0 Authored by Ball, Randle Last updated 2y ago Rating ☆☆☆☆☆
+Description: Cipher Voice is a voice product that will allow for HFHS to follow up with patients post-discharge. The goal is to identify patients with issues or concerns and alert the appropriate hospital staff member for quick resolution. This is a...
+Knowledge Base: HFHS Service Desk
+How To Add A Flowsheet into Epic
+KB17913 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+If you need to add a Flowsheet for documentation which is not currently a part of a patient's chart, follow the steps below: For a one-time addition to your current chart: To wrench a flowsheet in (aka to add it to favorites so it will be available for use...
+Knowledge Base: HFHS Service Desk
+Optum TAPS
+KB19165 v1.0 Authored by Shipman, Ryan J. Last updated 2y ago Rating ☆☆☆☆☆
+Description: Optum is a healthcare information database managed by EDW. Support: Requests for this TAPS access can only come from members of the EDW team. If a EDW team member calls requesting this TAPS access, collect the information regarding the...
+Knowledge Base: HFHS Service Desk
+OR Squeezebox Internet Radio Support
+KB18324 v1.0 Authored by Woodrich, Melanie 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Description There are Squeezebox radios (a standard Squeezebox radio with dials or the Squeezebox Touch with a touchscreen) that play Pandora and are located in the operating rooms. Callers may have issues with lost connectivity among other difficulties....
+Knowledge Base: HFHS Service Desk
+How-to disable Pop Up Blocker in Safari
+KB15262 v1.0 Authored by Williams, Angela A. Last updated 2y ago Rating ☆☆☆☆☆
+Symptoms Remote users on an Apple machine cannot view their paychecks in HR Connect. Cause Pop-up Blocker is enabled. Resolution Clicking on the Safari menu and drop down to Preferences On the Preferences screen, click on the Security tab at the top and...
+Knowledge Base: HFHS Service Desk
+Trusteer Rapport
+KB19240 v1.0 Authored by Shipman, Ryan J. 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Description: Trusteer Rapport is a security application used by the patient financial services. Support: The application can be pushed or installed by Deskside Support Services....
+Knowledge Base: HFHS Service Desk
+Epic Event Management
+KB18408 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+If you are planning to take any action (or guide a caller to take any action) within Epic's Event Management, you MUST contact the ADT person on-call before doing so. Many actions seem simple (such as undoing an event), but can lead to unexpected...
+Knowledge Base: HFHS Service Desk
+Epic - Flu Shot Seems to Be Charged Twice
+KB18267 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+If a caller sees that a patient is being billed for two flu shots, but they only received one, you can let them know that this is expected behavior and will resolve itself. There are two different shots and the patient receives the correct one for their...
+Knowledge Base: HFHS Service Desk
+Red Bypass Phones
+KB18347 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+The bypass phones are available at Wyandotte and Brownstown. They are analog phones that provide a dial tone if the regular phone system goes down. All issues with these phone should be directed to the Voice team...
+Knowledge Base: HFHS Service Desk
+Privacy icon added to employee's personal mobile devices enrolled in Airwatch
+KB18690 v1.0 Authored by Shipman, Ryan J. Last updated 2y ago Rating ☆☆☆☆☆
+There is a shortcut added to the home screen of all personally owned mobile devices enrolled in AirWatch. This shortcut is labeled Privacy. The purpose of this shortcut is only to provide transparency to our users so they can see what information AirWatch...
+Knowledge Base: HFHS Service Desk
+HFHS Screensaver Policy: Request to Change Screensaver Time Out
+KB18171 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+Changing a screen saver is not a simple process. It requires ISS - Information Security Services approval, and the options are very limited. Screensaver settings are based upon an individual's OU. 1) Clinical Active Directory OU – 10 minutes 2) Business...
+Knowledge Base: HFHS Service Desk
+Phoresis CORE by Sebia
+KB19563 v1.0 Authored by Stoner, Clint Last updated 2y ago Rating ☆☆☆☆☆
+Description Phoresis CORE is management software for Sebia instruments with network capabilities. Phoresis CORE is an all-in-one application enabling users to interpret, manage, store and recall the assay results produced by the instrument. Support The...
+Knowledge Base: HFHS Service Desk
+W2 Form Support
+KB20809 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+When people ask if/how they can reach it from home Unfortunately, due to security concerns, HFHS decided to only allow W2s to be accessed while on the HFHS network. You'll need to follow the steps indicated on the OneHenry page when you are at work to...
+Knowledge Base: HFHS Service Desk
+Epic opens with a slanted screen
+KB19205 v1.0 Authored by Shipman, Ryan J. Last updated 2y ago Rating ☆☆☆☆☆
+Description: Epic opens and the screen content is slanted across the window. Support: This issue can be resolved by going into the Control Panel Programs Default Programs Associate a file type or protocol with a program The.ica files should be defaulting...
+Knowledge Base: HFHS Service Desk
+Carrot Pass (Carrot Wellness) Application
+KB19497 v2.0 Revised by Fuller, Dee Last updated 2y ago Rating ☆☆☆☆☆
+HFHS is participating in CARROT Wellness / Carrot Pass Have you downloaded CARROT Pass yet? It's a free app for iPhone and Smartphone that tracks your steps. When you use CARROT Pass, you'll earn Goal Coins you can use to "buy" prizes, such as gift...
+Knowledge Base: HFHS Service Desk
+Physician Newsletter
+KB20212 v1.0 Authored by Stoner, Clint Last updated 2y ago Rating ☆☆☆☆☆
+Description: The Physician Newsletter is sent to providers via email and contains a link to be viewed via Sway (the newsletter is no longer sent directly to providers). The subject line should read "Physician News" and the website will contain various...
+Knowledge Base: HFHS Service Desk
+ApneaLink
+KB18042 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+ApneaLink is a vendor-supported application. ResMed supports it, their number is 1-800-424-0737....
+Knowledge Base: HFHS Service Desk
+Epic - Changing pre-op and post-op diagnoses in Epic
+KB18718 v1.0 Authored by Shipman, Ryan J. Last updated 2y ago Rating ☆☆☆☆☆
+Caller's stating they are unable to change a diagnosis, or diagnosis code, for surgical patients can be assisted at the Service Desk, so long as the OR log has not yet been posted. Pre or post-operative diagnoses can be changed, but only by a provider. A...
+Knowledge Base: HFHS Service Desk
+Epic - Central Authorization process
+KB18800 v1.0 Authored by Shipman, Ryan J. Last updated 2y ago Rating ☆☆☆☆☆
+Description: The Epic Central Authorization process is project which will take the process of obtaining authorization for patients (like for a medication or a procedure) out of each individual department's hands, and move it under the single umbrella of a...
+Knowledge Base: HFHS Service Desk
+Support for Xerox Printers
+KB18798 v1.0 Authored by Stoner, Clint 2 Views Last updated 2y ago Rating ☆☆☆☆☆
+Xerox Printer Support If you receive a call about a Xerox printer, please create a ticket and assign it to Deskside Support. There are only a very small number of these printers left in the system (fewer than 10)....
+Knowledge Base: HFHS Service Desk
+West Interactive Voice Response Service (West IVR)
+KB18518 v1.0 Authored by Ball, Randle Last updated 2y ago Rating ☆☆☆☆☆
+Description: West Interactive / West IP Communications is our Vendor that is provide the updated Interactive Voice Response (IVR) Services to the Contact Centers and Hospital locations. This service provides enhanced capabilities for the Contact Centers to...
+Knowledge Base: HFHS Service Desk
+Avoiding Wireless Interference
+KB19209 v1.0 Authored by Shipman, Ryan J. 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Description: Dr. Conway has sent the below communication out to the HFHS physicians regarding wireless devices: AVOIDING WIRELESS INTERFERENCE Mobile solutions are everywhere, and throughout the day most of us use multiple mobile devices. However, each of...
+Knowledge Base: HFHS Service Desk
+Fax machines that keep redialing
+KB19082 v1.0 Authored by Shipman, Ryan J. Last updated 2y ago Rating ☆☆☆☆☆
+For calls reporting that a fax machine keeps redialing over and over, then collect the relevant information about the issue (including, but not limited to, phone number and information about the fax machine itself), and assign an incident to Voice System...
+Knowledge Base: HFHS Service Desk
+Blue Coat Exception: Emergency short term website access for VP or higher level employees
+KB18874 v1.0 Authored by Shipman, Ryan J. 4 Views Last updated 2y ago Rating ☆☆☆☆☆
+Description: There is a very limited exception to the above process for Vice President level employees and higher. These calls should typically NOT route through the Service Desk. During business hours there is a direct support path through Network...
+Knowledge Base: HFHS Service Desk
+InfoEd Support
+KB17905 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+InfoEd Support InfoEd is used by Research Administration for tracking research studies. It is accessed via the Henry Page (HomeDepartmentsResearch AdministrationPre/Post AwardInfoEd) or http://infoed.hfhs.org/ Servers are supported by Wintel: RHWAPP568A,...
+Knowledge Base: HFHS Service Desk
+Turning Off Searching From Address Bar
+KB18509 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+If you have a caller that is getting search results instead of a website (Henry Ford Connect or Bomgar), this is because Internet Explorer is configured to perform searches from the address bar by default. The feature can be turned off to allow the user to...
+Knowledge Base: HFHS Service Desk
+Structural Heart Disease Cardiology SharePoint Site and Database
+KB18839 v1.0 Authored by Shipman, Ryan J. Last updated 2y ago Rating ☆☆☆☆☆
+Description: The Structural Heart Disease team in the Heart & Vascular Institute have a special database set up in the SharePoint system. They use this system to track and store patient information related to their clinic. Support: If the caller states the...
+Knowledge Base: HFHS Service Desk
+Epic SUP Environment Support
+KB18034 v1.0 Authored by Woodrich, Melanie 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Need Access: An ARF will be needed to gain access, even if the person had it previously. Environment Outage/Error Upon Launching Icon: Escalate to Epic Cache DBA. SUP is an environment used by the Support/Build teams to support production related issues....
+Knowledge Base: HFHS Service Desk
+HFHS Faxing Lab Results to External Providers
+KB19386 v1.0 Authored by Woodrich, Melanie 2 Views Last updated 2y ago Rating ☆☆☆☆☆
+The old method of faxing lab results from Epic caused a great waste of paper because only one result could appear per page. Beginning 1/26/17, faxes will go to external providers via the Lab system which allows multiple results per page. Impact: 23,000...
+Knowledge Base: HFHS Service Desk
+Eagle Dream Registry
+KB19548 v1.0 Authored by Stoner, Clint Last updated 2y ago Rating ☆☆☆☆☆
+Description: Eagle Dream Registry is used at all Macomb Ambulatory Practices during patient registration to check for gaps in care and for running reports (and printing from Chrome for better formatting). Support: Eagle Dream Registry is supported by...
+Knowledge Base: HFHS Service Desk
+Intelicode Accounting and Auditing Software
+KB18292 v1.0 Authored by Ball, Randle Last updated 2y ago Rating ☆☆☆☆☆
+Intelicode Accounting and Auditing Software ** Data is still being gathered for this article 11/02/2015** Description: This is a third party application hosted on several PC's at Henry Ford Hospital for Audit Services and Administration Medicine groups. It...
+Knowledge Base: HFHS Service Desk
+Error 1046 in Citrix: This Version of Citrix Receiver does not support selected encryption
+KB18094 v1.0 Authored by Woodrich, Melanie 8 Views Last updated 2y ago Rating ☆☆☆☆☆
+The error below might show up when a user clicks on any Citrix icon on their desktop or via HenryApps. If it's an HFHS-owned asset: send an incident to Deskside to have the new version of Receiver pushed. If it's a personal asset: have the caller download...
+Knowledge Base: HFHS Service Desk
+Requests for cables
+KB19173 v1.0 Authored by Shipman, Ryan J. 2 Views Last updated 2y ago Rating ☆☆☆☆☆
+Description: End user requests for cables related to any computer. Support: For green tagged computers the request or incident would go to Deskside Support Services. For medical devices the request or incident should be directed to Clinical Engineering....
+Knowledge Base: HFHS Service Desk
+E-Pending (ED or POR) Monitor Log
+KB19212 v1.0 Authored by Stoner, Clint Last updated 2y ago Rating ☆☆☆☆☆
+E-Pending Monitor Log Aliases: E-Pending Log; ED Monitor; POR Monitor; ED Log; POR Log Description: E-Pending (ED or POR) Monitor Log is an in-house developed MS Access database application developed by Bill Kelly with Pathology Informatics. The...
+Knowledge Base: HFHS Service Desk
+Omnilert
+KB18340 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+Currently in pilot: Omnilert. It is an emergency notification system. The product will be piloted to approximately 20 users at 5 sites (100 total). Sites are RHDC, WY, WBH, Main Campus and Macomb. Vendor contact Information: Anthony Covert phone...
+Knowledge Base: HFHS Service Desk
+Apple Engineering
+KB18560 v1.0 Authored by Ball, Randle 2 Views Last updated 2y ago Rating ☆☆☆☆☆
+Description: The Apple Engineering Team queue is a second level Team queue. At no point should the Service Desk use the Apple Engineering Team queue for the initial assignment group. Deskside Support Services must troubleshoot the issue first. Deskside...
+Knowledge Base: HFHS Service Desk
+LaborLytics Support
+KB20269 v1.0 Authored by Stoner, Clint 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Description LaborLytics is an analytical tool that integrates analytics, staffing, position control and productivity management functions and identifies cost savings and cost shifting opportunities to help deliver efficient and effective care. This tool...
+Knowledge Base: HFHS Service Desk
+Microsoft Premier Support
+KB17952 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+We may get requests from HAP, Radiology, and other non-Corporate IT areas requesting to have a Corp team open a Premier Microsoft support ticket. Our incident should be escalated to the appropriate Corporate IT team (Wintel, SQL DBA, etc.) who will then...
+Knowledge Base: HFHS Service Desk
+New background and internet restrictions for Windows XP machines
+KB18736 v1.0 Authored by Shipman, Ryan J. Last updated 2y ago Rating ☆☆☆☆☆
+All computers in the system still running Windows XP have been moved into a single OU. As a result two things will happen: These XP devices will have the same restricted internet access as the exam room PCs, and will only be able to browse approved...
+Knowledge Base: HFHS Service Desk
+QualysGuard Vulnerabilities Management
+KB17961 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+ISS, Network Security Ops, Wintel, Network, Database, and Unix will use this to scan endpoints to determine vulnerabilities. It is accessed here: https://qualysguard.qualys.com/qglogin/index.html Support (software issues, how-to questions, password resets,...
+Knowledge Base: HFHS Service Desk
+Submitting an IT Request to HAP
+KB19100 v1.0 Authored by Stoner, Clint 11 Views Last updated 2y ago Rating ☆☆☆☆☆
+How to submit an IT Request to the HAP IT Department There are two methods to submit an IT Request to HAP IT 1) Send the details of what needs to be requested to is_helpdesk@hap.org to have the request created on behalf of whoever is being worked with on...
+Knowledge Base: HFHS Service Desk
+TRAKAID Support
+KB18691 v1.0 Authored by Ball, Randle Last updated 2y ago Rating ☆☆☆☆☆
+Description: This application is used as a part of support for hearing aids. Support: Any calls received that mention TrakAid should be directed to DAP (Clinical Applications) Users are supposed to contact their identified support prior to contacting the...
+Knowledge Base: HFHS Service Desk
+Single Sign On Michigan site decommissioned and replaced
+KB19176 v1.0 Authored by Shipman, Ryan J. 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Description: The single sign on for the State of Michigan website (https://sso.state.mi.us/) was decommissioned. The old site does not redirect to the new site, nor does it provide a message that the site has been decommissioned. If a caller attempts to...
+Knowledge Base: HFHS Service Desk
+Dismissed patients / Administrative discharge
+KB19252 v1.0 Authored by Shipman, Ryan J. 2 Views Last updated 2y ago Rating ☆☆☆☆☆
+Description: Administrative discharge, or patient dismissal, is the process whereby a patient who display certain behaviors during the course of their care at Henry Ford facilities can be prevented from scheduling further appointments. This prevention can...
+Knowledge Base: HFHS Service Desk
+Process for Users Requesting New HFHS Assets
+KB18040 v1.0 Authored by Woodrich, Melanie 1 View Last updated 2y ago Rating ☆☆☆☆☆
+If users need to request equipment be issued to them so they may do their work, they will need to follow the process below: 1. They will need to submit an ITR, being as specific as possible. This starts the process. 2. They will receive a survey to fill...
+Knowledge Base: HFHS Service Desk
+Dako Autostainer
+KB19117 v1.0 Authored by Shipman, Ryan J. Last updated 2y ago Rating ☆☆☆☆☆
+Description: The Dako Autostainer is a hardware device used in labs. Support: Tickets relating to issues with the Dako Autostainer should be assigned to CoPath....
+Knowledge Base: HFHS Service Desk
+FuelMaster Support
+KB20882 v4.0 Revised by Stoner, Clint Last updated 2y ago Rating ☆☆☆☆☆
+Description: FuelMaster is used in the HFH grounds garage to record fuel consumption for shuttle bus and grounds keeping equipment. There is a FuelMaster Unit (FMU) inside the gas pump with a network connection that reports gas usage back to virtual app...
+Knowledge Base: HFHS Service Desk
+Finding Pended Restraint Orders
+KB17976 v1.0 Authored by Woodrich, Melanie 3 Views Last updated 2y ago Rating ☆☆☆☆☆
+If a provider is unable to see the Restraint Order placed by the nurse, follow this to help providers to find the Order and sign it. Helios believes that the reason the Order is not being found is because the Restraint Order is being pending and not...
+Knowledge Base: HFHS Service Desk
+EP Evaluator
+KB19150 v1.0 Authored by Shipman, Ryan J. Last updated 2y ago Rating ☆☆☆☆☆
+Description: EP Evaluator is a lab application. There is only one license for Henry Ford, but it is a concurrent license. The application can be installed on any number of PCs, but can only be used by one person at a time. Support: For installations and...
+Knowledge Base: HFHS Service Desk
+Medivator Endoscope Washers
+KB19300 v1.0 Authored by Stoner, Clint Last updated 2y ago Rating ☆☆☆☆☆
+Description Medivators are endoscope washing devices that log all activity, send it to an SQL database (hosted on an HFHS green tagged PC) and print out daily reports for each device. Support The Medivator devices are supported by Clinical Engineering The...
+Knowledge Base: HFHS Service Desk
+Verge Solutions
+KB18819 v1.0 Authored by Shipman, Ryan J. 3 Views Last updated 2y ago Rating ☆☆☆☆☆
+Description VSurvey, or Verge Solutions, is an auditing program that assists with regulatory audit reporting. It includes standards from several of the regulatory agencies. Support There is no assignment group for folks calling with issues relating to...
+Knowledge Base: HFHS Service Desk
+Dell Wyse Terminals
+KB18782 v2.0 Revised by Stoner, Clint 2 Views Last updated 2y ago Rating ☆☆☆☆☆
+Description: Dell Wyse Terminals have replaced a limited number of normal desktop PCs in the system. Dell Wyse Terminals are Virtual Desktop Interfaces (VDI). The desktop and applications are hosted on a Virtual Machine rather than directly installed on...
+Knowledge Base: HFHS Service Desk
+Claim Archive Solution - HIPAA Suite Claim Master & HIPAA Suite Search
+KB17959 v1.0 Authored by Woodrich, Melanie 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Beginning 6/29/15, Macomb Health Quest CA will launch a pilot of the claim archive solution. This product has two parts: 1. The website: http://rhwapp413a/HipassuiteSearch/ 2. The application: HIPAA Suite Claim Master They're used in conjunction with each...
+Knowledge Base: HFHS Service Desk
+Working Remotely and Microsoft Application is Frozen - Home Coder Citrix Console Frozen Excel Issue
+KB18027 v1.0 Authored by Woodrich, Melanie 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Users who are working remotely (especially - but not only - Home Coders) can find that Microsoft Applications freeze up. We can unlock users who are having this problem using the steps below: 1. Go to Henry Apps, then click on the Help Desk folder, then...
+Knowledge Base: HFHS Service Desk
+HAP Insurance Issues
+KB18645 v1.0 Authored by Woodrich, Melanie 4 Views Last updated 2y ago Rating ☆☆☆☆☆
+If someone calls with issues with their HAP insurance (billing, website login, finding a physician, etc.), DO NOT provide them with the HAP Help Desk's phone number. That desk is for HAP employees' technical issues only. The phone number to call for HAP...
+Knowledge Base: HFHS Service Desk
+Pokémon Go blocked throughout Henry Ford Health System
+KB19007 v1.0 Authored by Shipman, Ryan J. Last updated 2y ago Rating ☆☆☆☆☆
+Description: The Pokémon Go app is being blocked from all network access throughout the system intentionally per request from HFHS leadership. Support: Inform the caller Pokéman Go was intentionally blocked, and close a ticket in the Service Desk queue....
+Knowledge Base: HFHS Service Desk
+FlashMgr (Flash Manager)
+KB18079 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+FlashMgr is used by Public Health Sciences (PHS) and external research colleagues to manage research study participant data. Support: It is supported by Public Health Sciences. They manage application support as well as creation, termination, and...
+Knowledge Base: HFHS Service Desk
+ICD-10 Support
+KB18193 v1.0 Authored by Woodrich, Melanie 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Description ICD-10, which is short for International Classification of Disease version 10, is a medical classification list by the World Health Organization. The codes are how health care organizations track, report and ultimately bill for the care they...
+Knowledge Base: HFHS Service Desk
+Big question mark within CMS HCC Best Practice Alerts
+KB19166 v1.0 Authored by Shipman, Ryan J. 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Description: CMS HCC Best Practice Alerts display a large question mark within the BPA alert (see image). Support: This issue is a known issue and will be resolved with the Epic 2015 upgrade. Please inform any caller reporting this issue, and close a...
+Knowledge Base: HFHS Service Desk
+Problems Accessing Doctor Allard's Epic Training Videos
+KB20921 v4.0 Revised by Fuller, Dee Last updated 2y ago Rating ☆☆☆☆☆
+Description This article contains instructions to assist users having issues accessing Dr. Allard’s Epic training videos at https://web.microsoftstream.com/. This can occur under the following circumstances: 1. If the user is logged into a computer using a...
+Knowledge Base: HFHS Service Desk
+Radiology Decision Support Services - Medicalis - Clinical Decision Support
+KB18251 v1.0 Authored by Woodrich, Melanie 2 Views Last updated 2y ago Rating ☆☆☆☆☆
+* Open ALL related incidents using the UserAsst - Radiology Decision Support template. * During the go-live (10/19/15-10/21/15), the Orders team will receive the tickets and triage. We can transfer people to 16-HFHS if someone needs urgent phone support...
+Knowledge Base: HFHS Service Desk
+New CME Portal Email - Not Spam / Phishing
+KB18514 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+An email like the one below is circulating (February 2016). If a caller expresses concern about it being a phishing attempt or spam, you can tell them that it is a legitimate message that is truly from IT....
+Knowledge Base: HFHS Service Desk
+FotoFinder Support
+KB20742 v2.0 Revised by Fuller, Dee Last updated 2y ago Rating ☆☆☆☆☆
+Description FotoFinder Bodystudio ATBM is an all-in-one imaging solution that combines automated total body mapping, digital dermoscopy and consistent baseline and follow-up photos of aesthetic treatments for the most precise comparisons available. This...
+Knowledge Base: HFHS Service Desk
+MCIR Web Application - Vaccine Registry
+KB19171 v1.0 Authored by Shipman, Ryan J. 5 Views Last updated 2y ago Rating ☆☆☆☆☆
+MCIR is an application used by the State of Michigan for recording immunizations given to children and the amount of medicine used. MICR URL: https://milogintp.michigan.gov/ Issues with MCIR should be referred to the MCIR Help Desk, they can be contacted...
+Knowledge Base: HFHS Service Desk
+VHI - Visual Health Information
+KB18000 v1.0 Authored by Woodrich, Melanie 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Name Title Type Value Customer Service Office: (800) 356-0709 Toll Free Cell: Email: customerservice@vhikits.com Email: support@vhikits.com System Administrators Name Title Type Value John Stieber SQL Server Team Lead Office: (248) 853-4926 Cell: Email:...
+Knowledge Base: HFHS Service Desk
+Second Opinion (DICOM Grid)
+KB19310 v1.0 Authored by Stoner, Clint 1 View Last updated 2y ago Rating ☆☆☆☆☆
+Description: Second Opinion is a cloud-based portal platform provided by Ambra Health for medical image management and exchange. This will allow patients (and physicians) to upload complex medical images and reports from other health systems directly to...
+Knowledge Base: HFHS Service Desk
+Phonetic Alphabet Tables
+KB18066 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+When spelling words to callers, it can be helpful to have a word list at your fingertips. Keep a copy of this at your desk so you don't get tripped up trying to think of words to go with various letters....
+Knowledge Base: HFHS Service Desk
+Privacy Security and Epic SER Misdirected Fax Process
+KB18515 v2.0 Revised by Kohl, Jason 16 Views Last updated 2y ago Rating ☆☆☆☆☆
+If you receive an email like the below from Privacy Security. Please create a ticket with the caller being Johanna Skolnik, and assign to Epic SER as an S3P3. The SecurityPrivacy Team will be sending them a bunch of scanned documents with patient...
+Knowledge Base: HFHS Service Desk
+Verint Taps Access
+KB18770 v1.0 Authored by Shipman, Ryan J. 3 Views Last updated 2y ago Rating ☆☆☆☆☆
+Description: Periodically a member of the Voice team will contact us at the Service Desk to request TAPS access to Verint. Providing TAPS access to Verint is similar to providing other varieties of TAPS access. Support: TAPS access to Verint will always...
+Knowledge Base: HFHS Service Desk
+ICD-10 Virtual Code Book (Phone Application)
+KB18112 v1.0 Authored by Woodrich, Melanie Last updated 2y ago Rating ☆☆☆☆☆
+Description This is an application developed by Precyse University to allow the user to enter clinical terms and/or disease/condition names to search for correct and specific ICD-10-CM codes. Support HFHS-Owned For employees who have attended the proper...
+Knowledge Base: HFHS Service Desk
