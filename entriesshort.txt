@@ -1,0 +1,40 @@
+MedHub (fka MyEval and New Innovations)
+KB23686 v10.0 Revised by Fuller, Dee 35 Views Last updated 4d ago Rating ☆☆☆☆☆
+Impacted Service: MedHub Description MedHub is a cloud-based application (desktop and mobile) that provides functionality for program administration, scheduling and evaluations for the HFHS Graduate Medical Education program. MedHub has replaced "MyEval"...
+Knowledge Base: HFHS Service Desk
+Halo Secured Texting for Clinicians
+KB23569 v29.0 Revised by Amabile, Maria 173 Views Last updated 4d ago Rating ☆☆☆☆☆
+Description Halo is the new texting communication tool for clinical care teams, to share and discuss sensitive patient care information pushed in real-time from Epic and secured on Henry Ford issued smartphones and desktop computers. The Halo Clinical...
+Knowledge Base: HFHS Service Desk
+HenryFordGalleries.com Support
+KB20402 v2.0 Revised by Fuller, Dee 1 View Last updated 5d ago Rating ☆☆☆☆☆
+Description HenryFordGalleries.com is a website that hosts event photographs and where guests can view images and purchase prints. Some of the events included on the site are press conferences, take your child to work day, the kidney walk, service awards...
+Knowledge Base: HFHS Service Desk
+Pediatric Mobile Video Visit Clinic
+KB22880 v7.0 Revised by Amabile, Maria 5 Views Last updated 5d ago Rating ☆☆☆☆☆
+Impacted Service: MyChart Video Visits Description Pediatric Mobile Video Visit Clinic is a Virtual Care program. This is a special "video visit only" clinic offered on Monday mornings from 8:00am to noon. These visits use the video platform through Epic...
+Knowledge Base: HFHS Service Desk
+TytoCare
+KB22382 v8.0 Revised by Amabile, Maria 2 Views Last updated 5d ago Rating ☆☆☆☆☆
+Impacted Service: MyChart Video Visits Description Telemedicine ( Virtual Care) consultations and encounters can be facilitated using a real-time voice and video conferencing device and application called TytoCare. TytoCare is currently in production at:...
+Knowledge Base: HFHS Service Desk
+Epic MyChart Video Visits - Telemedicine
+KB19155 v24.0 Revised by Amabile, Maria 29 Views Last updated 5d ago Rating ☆☆☆☆☆
+Impacted service: MyChart Video Visits Alias: Telehealth, Telemedicine, Vidyo, teleconferencing Description It will now be possible for a limited number of physicians across the health system to consult with patients via a video chat feature through...
+Knowledge Base: HFHS Service Desk
+E-Visits - Non Urgent Electronic Visit
+KB21104 v8.0 Revised by Amabile, Maria 5 Views Last updated 5d ago Rating ☆☆☆☆☆
+Description An E-Visit is a patient initiated (not scheduled), non urgent electronic visit conducted through the MyChart patient portal, for a fee. Visit is completed electronically via messaging between a patient and a doctor. Patient fills out a...
+Knowledge Base: HFHS Service Desk
+E-Consults
+KB22552 v3.0 Revised by Amabile, Maria 4 Views Last updated 5d ago Rating ☆☆☆☆☆
+Description With E-Consults, a requesting physician communicates with a specialist for advice regarding a patient's chart through Epic In Basket messages. This feature gives requesting physicians easier access to specialists' expertise, helping them...
+Knowledge Base: HFHS Service Desk
+Virtual Care / Telemedicine
+KB22564 v7.0 Revised by Amabile, Maria 23 Views Last updated 5d ago Rating ☆☆☆☆☆
+Description Virtual Care enables HFHS to Increase/improve access and reach, offer alternate access to healthcare, meet patient expectations for online service, reduce costs (time, travel, convenience, etc.), and increase clinician productivity/efficiency....
+Knowledge Base: HFHS Service Desk
+ServiceNow Support Procedures
+KB13976 v24.0 Revised by Fuller, Dee 42 Views Last updated 7d ago Rating ☆☆☆☆☆
+Assignment Group: ServiceNow Support Impacted Service: This ServiceNow instance Description The following document should assist with supporting the ServiceNow IT Service Management (ITSM) system. The majority of issues reported or requests received...
+Knowledge Base: HFHS Service Desk

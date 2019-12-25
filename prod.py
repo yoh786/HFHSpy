@@ -1,5 +1,6 @@
-#init vars
+#INIT VARS
 desiredresult = []
+listresult = []
 
 def split_list(alist, size):
     list_of_lists = []
@@ -12,37 +13,39 @@ def split_list(alist, size):
 
 def a_new_dict(alist):
     new_object = {}
-    new_object["first"] = alist[0]
-    new_object["second"] = alist[1]
-    new_object["third"] = alist[2]
-    new_object["fourth"] = alist[3]
+    new_object["Article Name"] = alist[0]
+    kbcut = alist[1]
+    kb = kbcut[:7]
+    new_object["KB Number"] = kb
+    new_object["Description"] = alist[2]
     print(str(new_object))
     return new_object
-
-
-#open filepath
-filepath = 'yoScripts/entriesshort.txt'
-#push lines to an array
+#END VARS
+#set filepath
+filepath = 'entriesshort.txt'
+#Open file, push lines to an array
 with open(filepath, encoding="utf-8") as fp:
     line = fp.readline()
     cnt = 1
     while line:
         popin = line.strip()
-        desiredresult.append(popin)
+        listresult.append(popin)
+        print(".")
         line = fp.readline()
         cnt += 1
     print("done with line loop")
-    print(str(desiredresult))
 #split said array
 lines_per_object = 4
-answer = split_list(desiredresult, lines_per_object)
-print(str(answer))
-
+answer = split_list(listresult, lines_per_object)
+#convert Lists to Dictionaries
+count = 0
+for e in answer:
+    print("{} made".format(str(count)))
+    one_entry = a_new_dict(e)
+    desiredresult.append(one_entry)
+    count += 1
 #output a file
 f = open("result.txt", "a", encoding="utf-8")
-f.write(str(answer))
+f.write(str(desiredresult))
 f.close()
-#convert array of arrays to a array of objects?
-
-
-#output another file
+#el fin
